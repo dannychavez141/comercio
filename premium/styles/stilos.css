@@ -1,0 +1,49 @@
+.social {
+	position: fixed; /* Hacemos que la posición en pantalla sea fija para que siempre se muestre en pantalla*/
+	left: 20px; /* Establecemos la barra en la izquierda */
+	top: 200px; /* Bajamos la barra 200px de arriba a abajo */
+	z-index: 2000; /* Utilizamos la propiedad z-index para que no se superponga algún otro elemento como sliders, galerías, etc */
+}
+.social ul {
+		list-style: none;
+	}
+ 
+	.social ul li a {
+		display: inline-block;
+		color:#fff;
+		background: #000;
+		padding: 10px 15px;
+		text-decoration: none;
+		-webkit-transition:all 500ms ease;
+		-o-transition:all 500ms ease;
+		transition:all 500ms ease; /* Establecemos una transición a todas las propiedades */
+	}
+ 
+	.social ul li .icon-facebook {background:#3b5998;} /* Establecemos los colores de cada red social, aprovechando su class */
+	
+	.zone { 
+
+		background-color: transparent;
+		background-image: url(../img/Logo2.png); /* Cambiamos el fondo cuando el usuario pase el mouse */
+		background-size: contain;
+		list-style: none;
+		width: 8em;
+		height: 8em;
+		animation-name: anim;
+		animation-duration: 10s;
+		animation-iteration-count: infinite;
+	}
+	@keyframes anim{
+		0% {background-color: #ff0;} /*Amarillo*/
+	   25% {background-color: #f80;} /*Naranja*/
+	   50% {background-color: #000;} /*Negro*/
+	   75% {background-color: #f80;} /*Otra vez naranja*/
+	  100% {background-color: #ff0;} /*Otra vez amarillo*/
+	}
+	.zone:hover {
+		fill-opacity: initial;
+		box-shadow: 10px 5px 5px rebeccapurple;
+		background-image: url(../img/Logo2.png); /* Cambiamos el fondo cuando el usuario pase el mouse */
+		transition:all 1500ms ease; 
+		padding: 10em 10em ; /* Hacemos mas grande el espacio cuando el usuario pase el mouse */
+	}

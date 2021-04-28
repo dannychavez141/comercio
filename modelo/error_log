@@ -1,0 +1,4 @@
+[01-Apr-2020 15:24:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/premiumc/public_html/modelo/dboMatricula.php on line 120
+[03-Apr-2020 16:29:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/premiumc/public_html/modelo/dboMatricula.php on line 120
+[07-Apr-2020 17:48:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/premiumc/public_html/modelo/dboMatricula.php on line 120
+[08-Apr-2020 15:57:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/premiumc/public_html/modelo/dboMatricula.php on line 120

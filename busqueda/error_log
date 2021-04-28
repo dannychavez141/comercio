@@ -1,0 +1,91 @@
+[03-Dec-2019 02:11:13 UTC] PHP Notice:  Trying to get property of non-object in /home/premiumc/public_html/busqueda/buscarPagos.php on line 52
+[03-Dec-2019 02:11:15 UTC] PHP Notice:  Trying to get property of non-object in /home/premiumc/public_html/busqueda/buscarPagos.php on line 52
+[03-Dec-2019 02:11:17 UTC] PHP Notice:  Trying to get property of non-object in /home/premiumc/public_html/busqueda/buscarPagos.php on line 52
+[03-Dec-2019 02:11:18 UTC] PHP Notice:  Trying to get property of non-object in /home/premiumc/public_html/busqueda/buscarPagos.php on line 52
+[03-Dec-2019 02:11:20 UTC] PHP Notice:  Trying to get property of non-object in /home/premiumc/public_html/busqueda/buscarPagos.php on line 52
+[03-Dec-2019 02:11:22 UTC] PHP Notice:  Trying to get property of non-object in /home/premiumc/public_html/busqueda/buscarPagos.php on line 52
+[03-Dec-2019 02:11:24 UTC] PHP Notice:  Trying to get property of non-object in /home/premiumc/public_html/busqueda/buscarPagos.php on line 52
+[06-Dec-2019 20:03:23 UTC] PHP Notice:  Undefined index: estado in /home/premiumc/public_html/busqueda/buscarDeudas.php on line 8
+[06-Dec-2019 20:03:23 UTC] PHP Notice:  Trying to get property of non-object in /home/premiumc/public_html/busqueda/buscarDeudas.php on line 51
+[06-Dec-2019 20:03:23 UTC] PHP Notice:  Undefined index: estado in /home/premiumc/public_html/busqueda/buscarDeudas.php on line 8
+[06-Dec-2019 20:03:23 UTC] PHP Notice:  Trying to get property of non-object in /home/premiumc/public_html/busqueda/buscarDeudas.php on line 51
+[06-Dec-2019 20:03:23 UTC] PHP Notice:  Undefined index: estado in /home/premiumc/public_html/busqueda/buscarDeudas.php on line 8
+[06-Dec-2019 20:03:23 UTC] PHP Notice:  Trying to get property of non-object in /home/premiumc/public_html/busqueda/buscarDeudas.php on line 51
+[19-Jan-2020 00:36:19 UTC] PHP Warning:  include(../control/cConexion.php): failed to open stream: No such file or directory in /home/premiumc/public_html/busqueda/buscarAlumno.php on line 4
+[19-Jan-2020 00:36:19 UTC] PHP Warning:  include(../control/cConexion.php): failed to open stream: No such file or directory in /home/premiumc/public_html/busqueda/buscarAlumno.php on line 4
+[19-Jan-2020 00:36:19 UTC] PHP Warning:  include(): Failed opening '../control/cConexion.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/premiumc/public_html/busqueda/buscarAlumno.php on line 4
+[19-Jan-2020 00:36:19 UTC] PHP Fatal error:  Uncaught Error: Class 'cConexion' not found in /home/premiumc/public_html/modelo/dbTiposeguro.php:30
+Stack trace:
+#0 /home/premiumc/public_html/busqueda/buscarAlumno.php(43): dbTiposeguro->buscarAlumnoSeguro('77935796')
+#1 {main}
+  thrown in /home/premiumc/public_html/modelo/dbTiposeguro.php on line 30
+[19-Jan-2020 00:36:23 UTC] PHP Warning:  include(../control/cConexion.php): failed to open stream: No such file or directory in /home/premiumc/public_html/busqueda/buscarAlumno.php on line 4
+[19-Jan-2020 00:36:23 UTC] PHP Warning:  include(../control/cConexion.php): failed to open stream: No such file or directory in /home/premiumc/public_html/busqueda/buscarAlumno.php on line 4
+[19-Jan-2020 00:36:23 UTC] PHP Warning:  include(): Failed opening '../control/cConexion.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/premiumc/public_html/busqueda/buscarAlumno.php on line 4
+[19-Jan-2020 00:36:23 UTC] PHP Fatal error:  Uncaught Error: Class 'cConexion' not found in /home/premiumc/public_html/modelo/dbTiposeguro.php:30
+Stack trace:
+#0 /home/premiumc/public_html/busqueda/buscarAlumno.php(43): dbTiposeguro->buscarAlumnoSeguro('77935796')
+#1 {main}
+  thrown in /home/premiumc/public_html/modelo/dbTiposeguro.php on line 30
+[19-Jan-2020 00:37:04 UTC] PHP Warning:  include(../control/cConexion.php): failed to open stream: No such file or directory in /home/premiumc/public_html/busqueda/buscarAlumno.php on line 4
+[19-Jan-2020 00:37:04 UTC] PHP Warning:  include(../control/cConexion.php): failed to open stream: No such file or directory in /home/premiumc/public_html/busqueda/buscarAlumno.php on line 4
+[19-Jan-2020 00:37:04 UTC] PHP Warning:  include(): Failed opening '../control/cConexion.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/premiumc/public_html/busqueda/buscarAlumno.php on line 4
+[19-Jan-2020 00:37:04 UTC] PHP Fatal error:  Uncaught Error: Class 'cConexion' not found in /home/premiumc/public_html/modelo/dbTiposeguro.php:30
+Stack trace:
+#0 /home/premiumc/public_html/busqueda/buscarAlumno.php(43): dbTiposeguro->buscarAlumnoSeguro('77935796')
+#1 {main}
+  thrown in /home/premiumc/public_html/modelo/dbTiposeguro.php on line 30
+[19-Jan-2020 00:38:48 UTC] PHP Warning:  include(../control/cConexion.php): failed to open stream: No such file or directory in /home/premiumc/public_html/busqueda/buscarAlumno.php on line 4
+[19-Jan-2020 00:38:48 UTC] PHP Warning:  include(../control/cConexion.php): failed to open stream: No such file or directory in /home/premiumc/public_html/busqueda/buscarAlumno.php on line 4
+[19-Jan-2020 00:38:48 UTC] PHP Warning:  include(): Failed opening '../control/cConexion.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/premiumc/public_html/busqueda/buscarAlumno.php on line 4
+[19-Jan-2020 00:38:48 UTC] PHP Fatal error:  Uncaught Error: Class 'cConexion' not found in /home/premiumc/public_html/modelo/dbTiposeguro.php:30
+Stack trace:
+#0 /home/premiumc/public_html/busqueda/buscarAlumno.php(43): dbTiposeguro->buscarAlumnoSeguro('77935796')
+#1 {main}
+  thrown in /home/premiumc/public_html/modelo/dbTiposeguro.php on line 30
+[27-Mar-2020 20:14:42 UTC] PHP Notice:  Trying to get property of non-object in /home/premiumc/public_html/busqueda/buscarMatricula.php on line 20
+[27-Mar-2020 20:14:47 UTC] PHP Notice:  Trying to get property of non-object in /home/premiumc/public_html/busqueda/buscarMatricula.php on line 20
+[27-Mar-2020 20:14:50 UTC] PHP Notice:  Trying to get property of non-object in /home/premiumc/public_html/busqueda/buscarMatricula.php on line 20
+[27-Mar-2020 21:46:07 UTC] PHP Notice:  Trying to get property of non-object in /home/premiumc/public_html/busqueda/buscarDeudas.php on line 82
+[27-Mar-2020 21:46:10 UTC] PHP Notice:  Trying to get property of non-object in /home/premiumc/public_html/busqueda/buscarDeudas.php on line 82
+[04-Apr-2020 23:12:10 UTC] PHP Notice:  Trying to get property of non-object in /home/premiumc/public_html/busqueda/buscarPagos.php on line 52
+[04-Apr-2020 23:12:13 UTC] PHP Notice:  Trying to get property of non-object in /home/premiumc/public_html/busqueda/buscarPagos.php on line 52
+[04-Apr-2020 23:14:06 UTC] PHP Notice:  Trying to get property of non-object in /home/premiumc/public_html/busqueda/buscarPagos.php on line 52
+[04-Apr-2020 23:14:11 UTC] PHP Notice:  Trying to get property of non-object in /home/premiumc/public_html/busqueda/buscarPagos.php on line 52
+[04-Apr-2020 23:14:13 UTC] PHP Notice:  Trying to get property of non-object in /home/premiumc/public_html/busqueda/buscarPagos.php on line 52
+[09-Apr-2020 21:11:08 UTC] PHP Notice:  Trying to get property of non-object in /home/premiumc/public_html/busqueda/buscarSeccion.php on line 20
+[04-Oct-2020 13:36:22 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/busqueda/buscarSeccion.php on line 20
+[02-Dec-2020 11:14:08 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/busqueda/buscarTarjeta.php on line 43
+[02-Dec-2020 11:14:12 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/busqueda/buscarTarjeta.php on line 43
+[02-Dec-2020 11:14:12 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/busqueda/buscarTarjeta.php on line 43
+[02-Dec-2020 11:14:13 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/busqueda/buscarTarjeta.php on line 43
+[02-Dec-2020 11:14:13 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/busqueda/buscarTarjeta.php on line 43
+[02-Dec-2020 11:14:13 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/busqueda/buscarTarjeta.php on line 43
+[02-Dec-2020 11:14:13 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/busqueda/buscarTarjeta.php on line 43
+[02-Dec-2020 11:14:28 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/busqueda/buscarTarjeta.php on line 43
+[02-Dec-2020 11:14:51 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/busqueda/buscarTarjeta.php on line 43
+[16-Dec-2020 08:49:41 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/busqueda/buscarTarjeta.php on line 43
+[25-Dec-2020 11:38:37 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/intranet/busqueda/buscarNotas.php on line 25
+[25-Dec-2020 11:38:40 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/intranet/busqueda/buscarNotas.php on line 25
+[25-Dec-2020 11:39:02 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/intranet/busqueda/buscarNotas.php on line 25
+[25-Dec-2020 11:39:28 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/intranet/busqueda/buscarNotas.php on line 25
+[25-Dec-2020 11:44:27 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/intranet/busqueda/buscarNotas.php on line 25
+[25-Dec-2020 11:44:30 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/intranet/busqueda/buscarNotas.php on line 25
+[25-Dec-2020 11:44:31 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/intranet/busqueda/buscarNotas.php on line 25
+[25-Dec-2020 11:44:33 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/intranet/busqueda/buscarNotas.php on line 25
+[25-Dec-2020 11:44:39 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/intranet/busqueda/buscarMatricula.php on line 20
+[25-Dec-2020 12:11:19 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/intranet/busqueda/buscarMatricula.php on line 20
+[25-Dec-2020 12:11:22 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/intranet/busqueda/buscarMatricula.php on line 20
+[25-Dec-2020 12:11:29 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/intranet/busqueda/buscarNotas.php on line 25
+[25-Dec-2020 12:19:37 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/intranet/busqueda/buscarNotas.php on line 25
+[25-Dec-2020 13:26:52 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/intranet/busqueda/buscarMatricula.php on line 20
+[28-Dec-2020 08:54:50 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/intranet/busqueda/buscarTarjeta.php on line 43
+[02-Jan-2021 17:31:24 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/intranet/busqueda/buscarTarjeta.php on line 43
+[02-Jan-2021 17:31:26 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/intranet/busqueda/buscarTarjeta.php on line 43
+[02-Jan-2021 17:31:26 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/intranet/busqueda/buscarTarjeta.php on line 43
+[02-Jan-2021 17:31:26 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/intranet/busqueda/buscarTarjeta.php on line 43
+[02-Jan-2021 17:31:26 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/intranet/busqueda/buscarTarjeta.php on line 43
+[02-Jan-2021 17:31:26 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/intranet/busqueda/buscarTarjeta.php on line 43
+[02-Jan-2021 17:31:27 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/intranet/busqueda/buscarTarjeta.php on line 43
+[05-Jan-2021 09:18:52 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/intranet/busqueda/buscarTarjeta.php on line 43
+[11-Jan-2021 10:21:04 America/Lima] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/premiumc/public_html/intranet/busqueda/buscarAnio.php on line 22

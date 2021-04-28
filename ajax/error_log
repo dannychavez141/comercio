@@ -1,0 +1,829 @@
+[03-May-2020 09:14:52 America/Lima] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/premiumc/public_html/modelo/mficha.php on line 291
+[03-May-2020 09:14:54 America/Lima] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/premiumc/public_html/modelo/mficha.php on line 291
+[11-May-2020 17:25:03 America/Lima] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/premiumc/public_html/control/cConexion.php on line 18
+[11-May-2020 17:25:05 America/Lima] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/premiumc/public_html/control/cConexion.php on line 18
+[12-May-2020 09:42:52 America/Lima] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/premiumc/public_html/modelo/dboAlumno.php on line 54
+[14-May-2020 23:55:47 America/Lima] PHP Fatal error:  Uncaught Error: Class 'mTipoApoderado' not found in /home/premiumc/public_html/ajax/cTipoApoderado.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/premiumc/public_html/ajax/cTipoApoderado.php on line 15
+[17-Jun-2020 08:34:09 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[17-Jun-2020 08:34:09 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[17-Jun-2020 08:34:09 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[17-Jun-2020 08:34:09 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[17-Jun-2020 08:34:09 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[17-Jun-2020 08:34:09 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[17-Jun-2020 08:34:09 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[17-Jun-2020 08:34:13 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[17-Jun-2020 08:34:13 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[17-Jun-2020 08:34:13 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[17-Jun-2020 08:34:13 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[17-Jun-2020 08:34:13 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[17-Jun-2020 08:34:13 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[17-Jun-2020 08:34:13 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[17-Jun-2020 08:34:29 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[17-Jun-2020 08:34:29 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[17-Jun-2020 08:34:29 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[17-Jun-2020 08:34:29 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[17-Jun-2020 08:34:29 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[17-Jun-2020 08:34:29 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[17-Jun-2020 08:34:29 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[17-Jun-2020 08:34:31 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[17-Jun-2020 08:34:31 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[17-Jun-2020 08:34:31 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[17-Jun-2020 08:34:31 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[17-Jun-2020 08:34:31 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[17-Jun-2020 08:34:31 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[17-Jun-2020 08:34:31 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[17-Jun-2020 08:34:32 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[17-Jun-2020 08:34:32 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[17-Jun-2020 08:34:32 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[17-Jun-2020 08:34:32 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[17-Jun-2020 08:34:32 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[17-Jun-2020 08:34:32 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[17-Jun-2020 08:34:32 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[17-Jun-2020 08:34:34 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[17-Jun-2020 08:34:34 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[17-Jun-2020 08:34:34 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[17-Jun-2020 08:34:34 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[17-Jun-2020 08:34:34 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[17-Jun-2020 08:34:34 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[17-Jun-2020 08:34:34 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[17-Jun-2020 08:34:35 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[17-Jun-2020 08:34:35 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[17-Jun-2020 08:34:35 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[17-Jun-2020 08:34:35 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[17-Jun-2020 08:34:35 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[17-Jun-2020 08:34:35 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[17-Jun-2020 08:34:35 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[17-Jun-2020 08:34:40 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[17-Jun-2020 08:34:40 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[17-Jun-2020 08:34:40 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[17-Jun-2020 08:34:40 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[17-Jun-2020 08:34:40 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[17-Jun-2020 08:34:40 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[17-Jun-2020 08:34:40 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[17-Jun-2020 08:34:48 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[17-Jun-2020 08:34:48 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[17-Jun-2020 08:34:48 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[17-Jun-2020 08:34:48 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[17-Jun-2020 08:34:48 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[17-Jun-2020 08:34:48 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[17-Jun-2020 08:34:48 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[17-Jun-2020 08:34:49 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[17-Jun-2020 08:34:49 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[17-Jun-2020 08:34:49 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[17-Jun-2020 08:34:49 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[17-Jun-2020 08:34:49 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[17-Jun-2020 08:34:49 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[17-Jun-2020 08:34:49 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[17-Jun-2020 08:34:50 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[17-Jun-2020 08:34:50 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[17-Jun-2020 08:34:50 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[17-Jun-2020 08:34:50 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[17-Jun-2020 08:34:50 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[17-Jun-2020 08:34:50 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[17-Jun-2020 08:34:50 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:10:57 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[13-Jul-2020 11:10:57 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[13-Jul-2020 11:10:57 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:10:57 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:10:57 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[13-Jul-2020 11:10:57 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:10:57 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:11:07 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[13-Jul-2020 11:11:07 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[13-Jul-2020 11:11:07 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:11:07 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:11:07 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[13-Jul-2020 11:11:07 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:11:07 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:11:27 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[13-Jul-2020 11:11:27 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[13-Jul-2020 11:11:27 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:11:27 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:11:27 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[13-Jul-2020 11:11:27 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:11:27 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:11:29 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[13-Jul-2020 11:11:29 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[13-Jul-2020 11:11:29 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:11:29 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:11:29 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[13-Jul-2020 11:11:29 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:11:29 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:11:32 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[13-Jul-2020 11:11:32 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[13-Jul-2020 11:11:32 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:11:32 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:11:32 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[13-Jul-2020 11:11:32 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:11:32 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:11:41 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[13-Jul-2020 11:11:41 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[13-Jul-2020 11:11:41 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:11:41 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:11:41 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[13-Jul-2020 11:11:41 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:11:41 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:11:44 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[13-Jul-2020 11:11:44 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[13-Jul-2020 11:11:44 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:11:44 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:11:44 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[13-Jul-2020 11:11:44 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:11:44 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:11:46 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[13-Jul-2020 11:11:46 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[13-Jul-2020 11:11:46 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:11:46 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:11:46 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[13-Jul-2020 11:11:46 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:11:46 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:11:50 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[13-Jul-2020 11:11:50 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[13-Jul-2020 11:11:50 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:11:50 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:11:50 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[13-Jul-2020 11:11:50 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:11:50 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:11:56 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[13-Jul-2020 11:11:56 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[13-Jul-2020 11:11:56 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:11:56 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:11:56 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[13-Jul-2020 11:11:56 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:11:56 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:12:09 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[13-Jul-2020 11:12:09 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[13-Jul-2020 11:12:09 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:12:09 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:12:09 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[13-Jul-2020 11:12:09 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:12:09 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:13:11 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[13-Jul-2020 11:13:11 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[13-Jul-2020 11:13:11 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:13:11 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:13:11 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[13-Jul-2020 11:13:11 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:13:11 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:13:12 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[13-Jul-2020 11:13:12 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[13-Jul-2020 11:13:12 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:13:12 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:13:12 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[13-Jul-2020 11:13:12 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:13:12 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:13:36 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[13-Jul-2020 11:13:36 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[13-Jul-2020 11:13:36 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:13:36 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:13:36 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[13-Jul-2020 11:13:36 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:13:36 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:13:41 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[13-Jul-2020 11:13:41 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[13-Jul-2020 11:13:41 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:13:41 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:13:41 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[13-Jul-2020 11:13:41 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:13:41 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:13:43 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[13-Jul-2020 11:13:43 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[13-Jul-2020 11:13:43 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:13:43 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:13:43 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[13-Jul-2020 11:13:43 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:13:43 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:13:44 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[13-Jul-2020 11:13:44 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[13-Jul-2020 11:13:44 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:13:44 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:13:44 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[13-Jul-2020 11:13:44 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:13:44 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:13:49 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[13-Jul-2020 11:13:49 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[13-Jul-2020 11:13:49 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:13:49 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:13:49 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[13-Jul-2020 11:13:49 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:13:49 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:16:11 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[13-Jul-2020 11:16:11 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[13-Jul-2020 11:16:11 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:16:11 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:16:11 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[13-Jul-2020 11:16:11 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:16:11 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:16:14 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[13-Jul-2020 11:16:14 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[13-Jul-2020 11:16:14 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:16:14 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:16:14 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[13-Jul-2020 11:16:14 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:16:14 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:16:32 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[13-Jul-2020 11:16:32 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[13-Jul-2020 11:16:32 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:16:32 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[13-Jul-2020 11:16:32 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[13-Jul-2020 11:16:32 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[13-Jul-2020 11:16:32 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[07-Nov-2020 15:32:13 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 15:32:13 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 15:32:13 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[07-Nov-2020 15:32:13 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 124
+[07-Nov-2020 15:32:13 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 125
+[07-Nov-2020 15:32:13 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[07-Nov-2020 15:32:13 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 126
+[07-Nov-2020 15:48:52 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 15:48:52 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 15:48:52 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 15:48:52 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 15:48:52 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 15:48:52 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 15:48:52 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:00:55 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 16:00:55 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 16:00:55 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:00:55 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:00:55 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 16:00:55 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:00:55 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:00:55 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:00:59 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 16:00:59 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 16:00:59 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:00:59 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:00:59 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 16:00:59 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:00:59 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:00:59 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:03 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 16:01:03 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 16:01:03 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:01:03 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:01:03 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 16:01:03 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:03 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:03 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:05 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 16:01:05 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 16:01:05 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:01:05 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:01:05 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 16:01:05 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:05 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:05 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:07 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 16:01:07 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 16:01:07 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:01:07 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:01:07 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 16:01:07 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:07 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:07 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:09 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 16:01:09 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 16:01:09 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:01:09 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:01:09 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 16:01:09 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:09 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:09 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:11 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 16:01:11 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 16:01:11 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:01:11 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:01:11 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 16:01:11 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:11 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:11 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:11 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 16:01:11 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 16:01:11 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:01:11 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:01:11 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 16:01:11 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:11 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:11 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:11 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 16:01:11 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 16:01:11 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:01:11 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:01:11 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 16:01:11 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:11 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:11 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:11 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 16:01:11 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 16:01:11 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:01:11 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:01:11 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 16:01:11 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:11 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:11 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:13 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 16:01:13 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 16:01:13 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:01:13 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:01:13 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 16:01:13 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:13 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:13 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:14 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 16:01:14 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 16:01:14 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:01:14 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:01:14 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 16:01:14 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:14 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:14 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:14 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 16:01:14 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 16:01:14 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:01:14 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:01:14 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 16:01:14 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:14 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:14 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:14 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 16:01:14 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 16:01:14 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:01:14 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:01:14 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 16:01:14 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:14 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:01:14 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:06:20 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 16:06:20 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 16:06:20 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:06:20 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:06:20 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 16:06:20 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:06:20 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:06:20 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:06:28 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 16:06:28 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 16:06:28 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:06:28 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:06:28 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 16:06:28 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:06:28 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:06:28 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:06:36 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 16:06:36 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 16:06:36 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:06:36 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:06:36 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 16:06:36 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:06:36 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:06:36 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:07:53 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 16:07:53 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 16:07:53 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:07:53 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:07:53 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 16:07:53 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:07:53 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:07:53 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:09:32 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 16:09:32 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 16:09:32 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:09:32 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:09:32 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 16:09:32 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:09:32 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:09:32 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:10:11 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 16:10:11 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 16:10:11 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:10:11 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:10:11 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 16:10:11 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:10:11 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:10:11 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:10:36 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 16:10:36 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 16:10:36 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:10:36 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:10:36 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 16:10:36 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:10:36 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:10:36 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:10:39 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 16:10:39 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 16:10:39 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:10:39 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:10:39 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 16:10:39 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:10:39 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:10:39 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:11:16 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 16:11:16 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 16:11:16 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:11:16 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:11:16 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 16:11:16 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:11:16 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:11:16 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:17:28 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 16:17:28 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 16:17:28 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:17:28 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:17:28 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 16:17:28 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:17:28 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:17:28 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:19:04 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 16:19:04 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 16:19:04 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:19:04 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:19:04 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 16:19:04 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:19:04 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:19:04 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:19:13 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 16:19:13 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 16:19:13 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:19:13 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:19:13 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 16:19:13 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:19:13 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:19:13 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:19:45 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 16:19:45 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 16:19:45 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:19:45 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:19:45 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 16:19:45 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:19:45 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:19:45 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:19:52 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 16:19:52 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 16:19:52 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:19:52 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:19:52 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 16:19:52 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:19:52 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:19:52 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:20:50 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 16:20:50 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 16:20:50 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:20:50 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 16:20:50 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 16:20:50 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:20:50 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:20:50 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 16:31:10 America/Lima] PHP Warning:  include(../modelo/dboActividad): failed to open stream: No such file or directory in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:31:10 America/Lima] PHP Warning:  include(../modelo/dboActividad): failed to open stream: No such file or directory in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:31:10 America/Lima] PHP Warning:  include(): Failed opening '../modelo/dboActividad' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:31:45 America/Lima] PHP Warning:  include(../modelo/dboActividad): failed to open stream: No such file or directory in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:31:45 America/Lima] PHP Warning:  include(../modelo/dboActividad): failed to open stream: No such file or directory in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:31:45 America/Lima] PHP Warning:  include(): Failed opening '../modelo/dboActividad' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:31:45 America/Lima] PHP Fatal error:  Uncaught Error: Class 'dbogrado' not found in /home/premiumc/public_html/ajax/cActividad.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/premiumc/public_html/ajax/cActividad.php on line 15
+[07-Nov-2020 16:32:30 America/Lima] PHP Warning:  include(../modelo/dboActividad): failed to open stream: No such file or directory in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:32:30 America/Lima] PHP Warning:  include(../modelo/dboActividad): failed to open stream: No such file or directory in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:32:30 America/Lima] PHP Warning:  include(): Failed opening '../modelo/dboActividad' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:32:30 America/Lima] PHP Fatal error:  Uncaught Error: Class 'dbogrado' not found in /home/premiumc/public_html/ajax/cActividad.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/premiumc/public_html/ajax/cActividad.php on line 15
+[07-Nov-2020 16:32:33 America/Lima] PHP Warning:  include(../modelo/dboActividad): failed to open stream: No such file or directory in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:32:33 America/Lima] PHP Warning:  include(../modelo/dboActividad): failed to open stream: No such file or directory in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:32:33 America/Lima] PHP Warning:  include(): Failed opening '../modelo/dboActividad' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:32:33 America/Lima] PHP Fatal error:  Uncaught Error: Class 'dbogrado' not found in /home/premiumc/public_html/ajax/cActividad.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/premiumc/public_html/ajax/cActividad.php on line 15
+[07-Nov-2020 16:34:10 America/Lima] PHP Warning:  include(../modelo/dboActividad): failed to open stream: No such file or directory in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:34:10 America/Lima] PHP Warning:  include(../modelo/dboActividad): failed to open stream: No such file or directory in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:34:10 America/Lima] PHP Warning:  include(): Failed opening '../modelo/dboActividad' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:34:15 America/Lima] PHP Warning:  include(../modelo/dboActividad): failed to open stream: No such file or directory in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:34:15 America/Lima] PHP Warning:  include(../modelo/dboActividad): failed to open stream: No such file or directory in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:34:15 America/Lima] PHP Warning:  include(): Failed opening '../modelo/dboActividad' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:34:15 America/Lima] PHP Fatal error:  Uncaught Error: Class 'dbogrado' not found in /home/premiumc/public_html/ajax/cActividad.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/premiumc/public_html/ajax/cActividad.php on line 15
+[07-Nov-2020 16:34:28 America/Lima] PHP Warning:  include(../modelo/dboActividad): failed to open stream: No such file or directory in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:34:28 America/Lima] PHP Warning:  include(../modelo/dboActividad): failed to open stream: No such file or directory in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:34:28 America/Lima] PHP Warning:  include(): Failed opening '../modelo/dboActividad' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:34:28 America/Lima] PHP Fatal error:  Uncaught Error: Class 'dbogrado' not found in /home/premiumc/public_html/ajax/cActividad.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/premiumc/public_html/ajax/cActividad.php on line 15
+[07-Nov-2020 16:34:28 America/Lima] PHP Warning:  include(../modelo/dboActividad): failed to open stream: No such file or directory in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:34:28 America/Lima] PHP Warning:  include(../modelo/dboActividad): failed to open stream: No such file or directory in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:34:28 America/Lima] PHP Warning:  include(): Failed opening '../modelo/dboActividad' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:34:28 America/Lima] PHP Fatal error:  Uncaught Error: Class 'dbogrado' not found in /home/premiumc/public_html/ajax/cActividad.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/premiumc/public_html/ajax/cActividad.php on line 15
+[07-Nov-2020 16:39:16 America/Lima] PHP Warning:  include(../modelo/dboActividad): failed to open stream: No such file or directory in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:39:16 America/Lima] PHP Warning:  include(../modelo/dboActividad): failed to open stream: No such file or directory in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:39:16 America/Lima] PHP Warning:  include(): Failed opening '../modelo/dboActividad' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:39:16 America/Lima] PHP Fatal error:  Uncaught Error: Class 'dbogrado' not found in /home/premiumc/public_html/ajax/cActividad.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/premiumc/public_html/ajax/cActividad.php on line 15
+[07-Nov-2020 16:40:42 America/Lima] PHP Warning:  include(../modelo/dboActividad): failed to open stream: No such file or directory in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:40:42 America/Lima] PHP Warning:  include(../modelo/dboActividad): failed to open stream: No such file or directory in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:40:42 America/Lima] PHP Warning:  include(): Failed opening '../modelo/dboActividad' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:40:42 America/Lima] PHP Fatal error:  Uncaught Error: Class 'dboActividad' not found in /home/premiumc/public_html/ajax/cActividad.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/premiumc/public_html/ajax/cActividad.php on line 15
+[07-Nov-2020 16:41:03 America/Lima] PHP Warning:  include(../modelo/dbActividad): failed to open stream: No such file or directory in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:41:03 America/Lima] PHP Warning:  include(../modelo/dbActividad): failed to open stream: No such file or directory in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:41:03 America/Lima] PHP Warning:  include(): Failed opening '../modelo/dbActividad' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:41:03 America/Lima] PHP Fatal error:  Uncaught Error: Class 'dbActividad' not found in /home/premiumc/public_html/ajax/cActividad.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/premiumc/public_html/ajax/cActividad.php on line 15
+[07-Nov-2020 16:41:17 America/Lima] PHP Warning:  include(../modelo/dbActividad): failed to open stream: No such file or directory in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:41:17 America/Lima] PHP Warning:  include(../modelo/dbActividad): failed to open stream: No such file or directory in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:41:17 America/Lima] PHP Warning:  include(): Failed opening '../modelo/dbActividad' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:41:17 America/Lima] PHP Fatal error:  Uncaught Error: Class 'dbActividad' not found in /home/premiumc/public_html/ajax/cActividad.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/premiumc/public_html/ajax/cActividad.php on line 15
+[07-Nov-2020 16:41:56 America/Lima] PHP Warning:  include(../modelo/dbActividad): failed to open stream: No such file or directory in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:41:56 America/Lima] PHP Warning:  include(../modelo/dbActividad): failed to open stream: No such file or directory in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:41:56 America/Lima] PHP Warning:  include(): Failed opening '../modelo/dbActividad' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:41:56 America/Lima] PHP Fatal error:  Uncaught Error: Class 'dbActividad' not found in /home/premiumc/public_html/ajax/cActividad.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/premiumc/public_html/ajax/cActividad.php on line 15
+[07-Nov-2020 16:41:58 America/Lima] PHP Warning:  include(../modelo/dbActividad): failed to open stream: No such file or directory in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:41:58 America/Lima] PHP Warning:  include(../modelo/dbActividad): failed to open stream: No such file or directory in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:41:58 America/Lima] PHP Warning:  include(): Failed opening '../modelo/dbActividad' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/premiumc/public_html/ajax/cActividad.php on line 4
+[07-Nov-2020 16:41:58 America/Lima] PHP Fatal error:  Uncaught Error: Class 'dbActividad' not found in /home/premiumc/public_html/ajax/cActividad.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/premiumc/public_html/ajax/cActividad.php on line 15
+[07-Nov-2020 16:50:23 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 195
+[07-Nov-2020 16:50:23 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 196
+[07-Nov-2020 16:51:23 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 195
+[07-Nov-2020 16:51:23 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 196
+[07-Nov-2020 16:51:32 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 195
+[07-Nov-2020 16:51:32 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 196
+[07-Nov-2020 16:51:57 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 195
+[07-Nov-2020 16:51:57 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 196
+[07-Nov-2020 16:52:21 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 195
+[07-Nov-2020 16:52:21 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 196
+[07-Nov-2020 16:52:23 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 195
+[07-Nov-2020 16:52:23 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 196
+[07-Nov-2020 16:52:34 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 195
+[07-Nov-2020 16:52:34 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 196
+[07-Nov-2020 16:52:36 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 195
+[07-Nov-2020 16:52:36 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 196
+[07-Nov-2020 16:52:48 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 195
+[07-Nov-2020 16:52:48 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 196
+[07-Nov-2020 16:52:49 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 195
+[07-Nov-2020 16:52:49 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 196
+[07-Nov-2020 16:52:57 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 195
+[07-Nov-2020 16:52:57 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 196
+[07-Nov-2020 16:53:03 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 195
+[07-Nov-2020 16:53:03 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 196
+[07-Nov-2020 16:53:03 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 195
+[07-Nov-2020 16:53:03 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 196
+[07-Nov-2020 16:53:04 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 195
+[07-Nov-2020 16:53:04 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 196
+[07-Nov-2020 16:53:10 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 195
+[07-Nov-2020 16:53:10 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 196
+[07-Nov-2020 16:53:13 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 195
+[07-Nov-2020 16:53:13 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 196
+[07-Nov-2020 16:53:16 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 195
+[07-Nov-2020 16:53:16 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 196
+[07-Nov-2020 16:53:21 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 195
+[07-Nov-2020 16:53:21 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 196
+[07-Nov-2020 16:53:28 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 195
+[07-Nov-2020 16:53:28 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 196
+[07-Nov-2020 16:54:52 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 195
+[07-Nov-2020 16:54:52 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 196
+[07-Nov-2020 16:59:04 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 195
+[07-Nov-2020 16:59:04 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 196
+[07-Nov-2020 16:59:21 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 195
+[07-Nov-2020 16:59:21 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 196
+[07-Nov-2020 17:01:12 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 195
+[07-Nov-2020 17:01:12 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 196
+[07-Nov-2020 17:01:50 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 17:01:50 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 17:01:50 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 17:01:50 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 17:01:50 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 17:01:50 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:01:50 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:01:50 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:01:50 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 17:01:50 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 17:01:50 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 17:01:50 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 17:01:50 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 17:01:50 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:01:50 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:01:50 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:01:51 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 17:01:51 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 17:01:51 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 17:01:51 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 17:01:51 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 17:01:51 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:01:51 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:01:51 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:01:52 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 17:01:52 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 17:01:52 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 17:01:52 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 17:01:52 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 17:01:52 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:01:52 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:01:52 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:01:52 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 17:01:52 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 17:01:52 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 17:01:52 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 17:01:52 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 17:01:52 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:01:52 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:01:52 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:02:02 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 17:02:02 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 17:02:02 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 17:02:02 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 17:02:02 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 17:02:02 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:02:02 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:02:02 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:02:05 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 17:02:05 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 17:02:05 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 17:02:05 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 17:02:05 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 17:02:05 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:02:05 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:02:05 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:03:51 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 17:03:51 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 17:03:51 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 17:03:51 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 17:03:51 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 17:03:51 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:03:51 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:03:51 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:04:00 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 17:04:00 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 17:04:00 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 17:04:00 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 17:04:00 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 17:04:00 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:04:00 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:04:00 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:04:33 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 195
+[07-Nov-2020 17:04:33 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 196
+[07-Nov-2020 17:04:34 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 195
+[07-Nov-2020 17:04:34 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 196
+[07-Nov-2020 17:05:10 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/ajax/cTrabajo.php on line 129
+[07-Nov-2020 17:05:10 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/ajax/cTrabajo.php on line 129
+[07-Nov-2020 17:22:25 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:22:28 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:22:28 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:22:30 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:22:31 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:22:32 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:22:33 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:22:57 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:23:21 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 17:23:21 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 17:23:21 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 17:23:21 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 17:23:21 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 17:23:21 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:23:21 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:23:21 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:24:00 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 17:24:00 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 17:24:00 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 17:24:00 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 17:24:00 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 17:24:00 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:24:00 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:24:00 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:24:55 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 17:24:55 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 17:24:55 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 17:24:55 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 17:24:55 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 17:24:55 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:24:55 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 17:25:17 America/Lima] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/premiumc/public_html/modelo/dbodocente.php on line 114
+[07-Nov-2020 17:25:36 America/Lima] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/premiumc/public_html/modelo/dbodocente.php on line 114
+[07-Nov-2020 17:31:59 America/Lima] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/premiumc/public_html/modelo/dbodocente.php on line 114
+[07-Nov-2020 17:32:21 America/Lima] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/premiumc/public_html/modelo/dbodocente.php on line 114
+[07-Nov-2020 17:38:08 America/Lima] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/premiumc/public_html/modelo/dbodocente.php on line 114
+[07-Nov-2020 17:39:00 America/Lima] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/premiumc/public_html/modelo/dbodocente.php on line 114
+[07-Nov-2020 17:39:12 America/Lima] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/premiumc/public_html/modelo/dbodocente.php on line 114
+[07-Nov-2020 18:11:22 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/ajax/cTrabajo.php on line 39
+[07-Nov-2020 18:19:11 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/ajax/cTrabajo.php on line 39
+[07-Nov-2020 18:20:14 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/ajax/cTrabajo.php on line 39
+[07-Nov-2020 18:39:20 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[07-Nov-2020 18:39:20 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[07-Nov-2020 18:39:20 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 18:39:20 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[07-Nov-2020 18:39:20 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[07-Nov-2020 18:39:20 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[07-Nov-2020 18:39:20 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[08-Nov-2020 18:43:58 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[08-Nov-2020 18:43:58 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[08-Nov-2020 18:43:58 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[08-Nov-2020 18:43:58 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[08-Nov-2020 18:43:58 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[08-Nov-2020 18:43:58 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[08-Nov-2020 18:43:58 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[08-Nov-2020 18:48:40 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 65
+[08-Nov-2020 18:55:47 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[08-Nov-2020 18:55:47 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[08-Nov-2020 18:55:47 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[08-Nov-2020 18:55:47 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[08-Nov-2020 18:55:47 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[08-Nov-2020 18:55:47 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[08-Nov-2020 18:55:47 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[10-Nov-2020 18:32:35 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[10-Nov-2020 18:32:35 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[10-Nov-2020 18:32:35 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[10-Nov-2020 18:32:35 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[10-Nov-2020 18:32:35 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[10-Nov-2020 18:32:35 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[10-Nov-2020 18:32:35 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[10-Nov-2020 18:40:46 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[10-Nov-2020 18:40:46 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[10-Nov-2020 18:40:46 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[10-Nov-2020 18:40:46 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[10-Nov-2020 18:40:46 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[10-Nov-2020 18:40:46 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[10-Nov-2020 18:40:46 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[11-Nov-2020 14:27:48 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/modelo/mtrabajos.php on line 65
+[11-Nov-2020 22:23:39 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[11-Nov-2020 22:23:39 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[11-Nov-2020 22:23:39 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[11-Nov-2020 22:23:39 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[11-Nov-2020 22:23:39 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[11-Nov-2020 22:23:39 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[11-Nov-2020 22:23:39 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[11-Nov-2020 22:23:44 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/ajax/cTrabajo.php on line 24
+[11-Nov-2020 22:23:44 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/ajax/cTrabajo.php on line 25
+[11-Nov-2020 22:23:44 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[11-Nov-2020 22:23:44 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/modelo/mtrabajos.php on line 128
+[11-Nov-2020 22:23:44 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/modelo/mtrabajos.php on line 129
+[11-Nov-2020 22:23:44 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[11-Nov-2020 22:23:44 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/modelo/mtrabajos.php on line 130
+[08-Mar-2021 08:08:35 America/Lima] PHP Notice:  Undefined index: curso in /home/premiumc/public_html/intranet/ajax/cTrabajo.php on line 24
+[08-Mar-2021 08:08:35 America/Lima] PHP Notice:  Undefined index: descripcion in /home/premiumc/public_html/intranet/ajax/cTrabajo.php on line 25
+[08-Mar-2021 08:08:35 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 128
+[08-Mar-2021 08:08:35 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 128
+[08-Mar-2021 08:08:35 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 129
+[08-Mar-2021 08:08:35 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 130
+[08-Mar-2021 08:08:35 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 130
+[08-Mar-2021 08:23:34 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 197
+[08-Mar-2021 08:23:34 America/Lima] PHP Notice:  Undefined index: idActividad in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 198
+[15-Mar-2021 08:00:08 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 128
+[15-Mar-2021 08:00:08 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 128
+[15-Mar-2021 08:00:08 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 129
+[15-Mar-2021 08:00:08 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 130
+[15-Mar-2021 08:00:08 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 130
+[15-Mar-2021 08:00:17 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 128
+[15-Mar-2021 08:00:17 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 128
+[15-Mar-2021 08:00:17 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 129
+[15-Mar-2021 08:00:17 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 130
+[15-Mar-2021 08:00:17 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 130
+[15-Mar-2021 08:00:18 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 128
+[15-Mar-2021 08:00:18 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 128
+[15-Mar-2021 08:00:18 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 129
+[15-Mar-2021 08:00:18 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 130
+[15-Mar-2021 08:00:18 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 130
+[15-Mar-2021 08:00:18 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 128
+[15-Mar-2021 08:00:18 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 128
+[15-Mar-2021 08:00:18 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 129
+[15-Mar-2021 08:00:18 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 130
+[15-Mar-2021 08:00:18 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 130
+[15-Mar-2021 08:00:18 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 128
+[15-Mar-2021 08:00:18 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 128
+[15-Mar-2021 08:00:18 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 129
+[15-Mar-2021 08:00:18 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 130
+[15-Mar-2021 08:00:18 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 130
+[15-Mar-2021 08:00:18 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 128
+[15-Mar-2021 08:00:18 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 128
+[15-Mar-2021 08:00:18 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 129
+[15-Mar-2021 08:00:18 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 130
+[15-Mar-2021 08:00:18 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 130
+[17-Mar-2021 20:00:20 America/Lima] PHP Notice:  Undefined index: idDocente in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 128
+[17-Mar-2021 20:00:20 America/Lima] PHP Notice:  Undefined index: idCursos in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 128
+[17-Mar-2021 20:00:20 America/Lima] PHP Notice:  Undefined index: idGrado in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 129
+[17-Mar-2021 20:00:20 America/Lima] PHP Notice:  Undefined index: idSeccion in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 130
+[17-Mar-2021 20:00:20 America/Lima] PHP Notice:  Undefined index: idAnioEscolar in /home/premiumc/public_html/intranet/modelo/mtrabajos.php on line 130
