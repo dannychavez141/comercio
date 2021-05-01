@@ -16,7 +16,7 @@ join tipogrado t on c.idtipogrado=t.idTipo where concat(c.descr,t.descr) like '%
     $resultado = $conn->query($query);
     if ($resultado->num_rows>0) {
         $salida.="<table class='table table-striped ' border='1'>
-                        <thead class='bg-warning'>
+                        <thead class='bg-blue'>
                             <tr>
                                 <th>CODIGO</th>
                                 <th>NOMBRE DEL CURSO</th>

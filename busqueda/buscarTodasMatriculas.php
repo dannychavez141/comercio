@@ -11,7 +11,7 @@ $anio=$dboanio->ultimoanio();
 $matriculas = $dbomatricula->vertodasmatriculas($busqueda);
 if (count($matriculas) > 0) {
     $salida .= "<table class='table table-striped ' border='1'>
-        <thead class='bg-warning'>
+        <thead class='bg-blue'>
                             <tr>
                                <th colspan='5'>IMPRIMIR LISTA DE ALUMNOS MATRICULADOS: <a href='./pdfreportes/reporteTotalMat.php' target='_blank' >
                                     <button type='button' align='center'>REPORTE MATRICULADOS PDF</button>

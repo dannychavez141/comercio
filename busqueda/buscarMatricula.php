@@ -19,7 +19,7 @@ if (isset($_POST['consulta'])) {
 $resultado = $conn->query($query);
 if ($resultado->num_rows > 0) {
     $salida .= "<table class='table table-striped ' border='1'>
-                        <thead class='bg-warning'>
+                        <thead class='bg-blue'>
                         <tr>
                                <th colspan='5'>IMPRIMIR LISTA DE ALUMNOS:
                                <a href='pdfmatriculados.php?anio=" . $anio . "&grado=" . $grado . "&secc=" . $secc . "' target='_blank' >

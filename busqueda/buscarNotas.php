@@ -26,7 +26,7 @@ if ($resultado->num_rows > 0) {
 
 
     $salida .= "<table class='table table-striped ' border='1'>
-                        <thead class='bg-warning'>
+                        <thead class='bg-blue'>
                             <tr>
                                 <th>MATRICULA NRO</th>
                                 <th>ALUMNO</th>

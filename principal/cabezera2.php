@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Premium College</title>
+<title>Comercio N°64</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="description" content="Course Project">
@@ -24,8 +24,8 @@
 					 <a href="index.php">  <table>
                                 
                                     <tr>
-                                        <td>  <img src="images/logo.png" alt="" width="60" height="60"></td>
-                                        <td><span>Premium College</span></td>
+                                        <td>  <img src="img/logo.png" alt="" width="60" height="60"></td>
+                                        <td><span>Comercio N°64</span></td>
                                     </tr>
                                     
                               
@@ -38,39 +38,17 @@
 				<div class="main_nav">
 					<ul class="main_nav_list">
 						 <li class="main_nav_item">
-                                    <div class="dropdown">
-                                        <button class="btn btn-warning dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                            CLASES VIRTUALES
-                                        </button>
-                                        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                            <a class="dropdown-item" href="primaria.php">INICIAL Y PRIMARIA</a>
-                                            <a class="dropdown-item" href="secundaria.php">SECUNDARIA</a>
-                                            <a class="dropdown-item" href="mural.php" target="_blank">MURAL</a>
-                                        </div>
-                                    </div></li>
+                                   
                                     <li class="main_nav_item">
                                     <div class="dropdown">
-                                        <button class="btn btn-warning dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                            SABER MAS 
                                         </button>
                                         <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                                             <a class="dropdown-item" href="nosotros.php">NOSOTROS</a>
                                               
                                         </div>
-                                    </div></li> <li class="main_nav_item">
-                                    <div class="dropdown">
-                                        <button class="btn btn-warning dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                            PREMIUM APP
-                                        </button>
-                                        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                            <a class="dropdown-item" href="../appmovil/PremiumApp.apk">DESCARGAR PREMIUMAPP</a>
-                                          
-                                        </div>
-                                    </div></li>
-                                  <li class="main_nav_item"><a class="dropdown-item" href="../appmovil/PremiumApp.apk">DESCARGAR PREMIUMAPP</a></li>
-                                
-                               <!-- <li class="main_nav_item"><a href="solicitudRetiro.php">SOLICITUD DE RETIRO POR EMERGENCIA</a></li>-->
-					</ul>
+                             </ul>
 				</div>
 			</nav>
 		</div>
@@ -100,7 +78,6 @@
 				<ul class="menu_list menu_mm">
 					<li class="menu_item menu_mm"><a href="index.php">Inicio</a></li>
 					<li class="menu_item menu_mm"><a href="nosotros.php">Nosotros</a></li>
-					<li class="menu_item menu_mm"><a href="primaria.php">Primaria</a></li>
 					<li class="menu_item menu_mm"><a href="secundaria.php">Secundaria</a></li>
 					<li class="menu_item menu_mm"><a href="../login.php">Iniciar Sesion</a></li>
 				</ul>

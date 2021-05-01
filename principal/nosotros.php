@@ -53,35 +53,7 @@
 
                             </div>
                         </div>
-                        <br>
-                        <div class="row"><div class="col-lg-12">
-                                <div class="about">
-                                    <div class="about_title">PRINCIPIOS </div>
-
-                                    <div class="contact_info">
-                                        <ul>
-                                            <table class="text-center"><tr><td><li class="contact_info_item" style="color: black">
-
-                                                    <h2 >¿EDUCAS “A LA CARTA” O “AL POR MAYOR”?</h2>
-
-                                                    Tu hijo no eres tú. Ni su mapa mental. Ni su corazón. Ni sus necesidades ni habilidades cognitivas. Se parece en ciertos aspectos, pero es un ser humano diferente y cada vez lo será más, si le permites serlo.
-                                                </li></td><td><li class="contact_info_item" style="color: black">
-                                                    <h2>CERO TEXTOS ESCOLARES</h2>	
-
-                                                    Los textos y material didáctico deben estar estructurados de acuerdo al ritmo y estilo de cada estudiante, de ahí que NO debemos utilizar un texto para todos. En PREMIUM COLLEGE, El material didáctico está  estructurado para que el inicio sea hecho con contenidos fáciles y, a medida que avanza, el grado de dificultad irá aumentando de manera progresiva.
-                                                </li></td><td><li class="contact_info_item" style="color: black">
-                                                    <h2>CERO TAREAS</h2>
-
-                                                    Con las Tareas, el niño pierde el sentido de la responsabilidad y ve la tarea como un castigo por parte de los padres, recurriendo los mayores a su frase tradicional: “Si no haces la tarea no puedes salir a jugar con tus vecinos”. Cuando se eliminan las tareas los alumnos recuperan la motivación por el estudio y la alegría por ir a la escuela y aprender cada día cosas nuevas.
-                                                </li></td></tr></table>
-
-
-
-                                        </ul>
-                                    </div>
-
-                                </div>
-                            </div></div>
+                       
 
 
                     </div>
@@ -112,8 +84,8 @@
                                 <!-- Logo -->
                                 <div class="logo_container">
                                     <div class="logo">
-                                        <img src="images/logo.png" alt="" width="50" height="50">
-                                        <span>Premium College</span>
+                                        <img src="img/logo.png" alt="" width="50" height="50">
+                                        <span>Comercio N°64</span>
                                     </div>
                                 </div>
 
@@ -128,7 +100,6 @@
                                     <ul>
                                         <li class="footer_list_item"><a href="#">Inicio</a></li>
                                         <li class="footer_list_item"><a href="#">Nosotos</a></li>
-                                        <li class="footer_list_item"><a href="courses.html">Primaria</a></li>
                                         <li class="footer_list_item"><a href="news.html">Secundaria</a></li>
 
                                     </ul>
@@ -139,31 +110,6 @@
 
 
 
-                            <div class="col-lg-3 footer_col">
-                                <div class="footer_column_title">Contactenos</div>
-                                <div class="footer_column_content">
-                                    <ul>
-                                        <li class="footer_contact_item">
-                                            <div class="footer_contact_icon">
-                                                <img src="images/placeholder.svg" alt="https://www.flaticon.com/authors/lucy-g">
-                                            </div>
-                                            Jr. Iquitos #481 - Callería
-                                            Pucallpa
-                                        </li>
-                                        <li class="footer_contact_item">
-                                            <div class="footer_contact_icon">
-                                                <img src="images/smartphone.svg" alt="https://www.flaticon.com/authors/lucy-g">
-                                            </div>
-                                            (061) 286770
-                                        </li>
-                                        <li class="footer_contact_item">
-                                            <div class="footer_contact_icon">
-                                                <img src="images/envelope.svg" alt="https://www.flaticon.com/authors/lucy-g">
-                                            </div>premiumcollegepucallpa@gmail.com
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
 
                         </div>
                     </div>

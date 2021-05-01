@@ -23,7 +23,7 @@ join estados e on a.est=e.idestados where concat(a.descr,e.descr ) like '%$q%' l
        
 
         $salida.="<table class='table table-striped ' border='1'>
-                        <thead class='bg-warning'>
+                        <thead class='bg-blue'>
                             <tr>
                                 <th>CODIGO</th>
                                 <th>NOMBRE DEL AÑO ACADEMICO</th>

@@ -27,7 +27,7 @@
         <meta name="description" content="Robust admin is super flexible, powerful, clean &amp; modern responsive bootstrap 4 admin template with unlimited possibilities.">
         <meta name="keywords" content="admin template, robust admin template, dashboard template, flat admin template, responsive admin template, web app">
         <meta name="author" content="PIXINVENT">
-        <title>Premium College-Direccion</title>
+        <title>Comercio N°64-Direccion</title>
         <link rel="apple-touch-icon" sizes="60x60" href="/librerias/app-assets/images/ico/apple-icon-60.png">
         <link rel="apple-touch-icon" sizes="76x76" href="/librerias/app-assets/images/ico/apple-icon-76.png">
         <link rel="apple-touch-icon" sizes="120x120" href="/librerias/app-assets/images/ico/apple-icon-120.png">
@@ -175,8 +175,7 @@
 
                                 <li><a href="#" data-i18n="nav.error_pages.main" class="menu-item">Competencias</a>
                                     <ul class="menu-content">
-                                        <li><a href="verCursoPrim.php" data-i18n="nav.error_pages.error_400" class="menu-item">Cursos Inicial y Primaria</a>
-                                        </li>
+                                        
                                         <li><a href="verCursoSecu.php" data-i18n="nav.error_pages.error_401" class="menu-item">Cursos Secundaria</a>
                                         </li>
 
@@ -187,8 +186,6 @@
                         <li class=" nav-item"><a href="#"><i class="icon-whatshot"></i><span data-i18n="nav.advance_cards.main" class="menu-title">Matriculas</span></a>
                             <ul class="menu-content">
 
-                                <li><a href="verMatPrim.php" data-i18n="nav.cards.card_charts" class="menu-item">Ver Matriculas Inicial y Primaria</a>
-                                </li>
                                 <li><a href="verMatSecu.php" data-i18n="nav.cards.card_charts" class="menu-item">Ver Matricular Secundaria</a>
                                 </li>
                                 <li><a href="verTodasMatriculas.php" data-i18n="nav.cards.card_charts" class="menu-item">Ver Todas Las Matriculas</a>
@@ -197,8 +194,6 @@
 
                                 <li><a href="#" data-i18n="nav.error_pages.main" class="menu-item">Registrar Matricula</a>
                                     <ul class="menu-content">
-                                        <li><a href="regMatPrim.php" data-i18n="nav.cards.card_charts" class="menu-item">Matricular Inicial y Primaria</a>
-                                        </li>
                                         <li><a href="regMatSecu.php" data-i18n="nav.cards.card_charts" class="menu-item">Matricular Secundaria</a>
                                         </li>
 
@@ -211,8 +206,7 @@
                             <ul class="menu-content">
                                 <li><a href="#" data-i18n="nav.error_pages.main" class="menu-item">Ingresar Notas</a>
                                     <ul class="menu-content">
-                                        <li><a href="selecCurPrim.php" data-i18n="nav.error_pages.error_400" class="menu-item">Inicial y Primaria</a>
-                                        </li>
+                                        
                                         <li><a href="selecCurSecu.php" data-i18n="nav.error_pages.error_401" class="menu-item">Secundaria</a>
                                         </li>
 
@@ -220,8 +214,7 @@
                                 </li>
                                 <li><a href="#" data-i18n="nav.error_pages.main" class="menu-item">Ver Boletas Notas</a>
                                     <ul class="menu-content">
-                                        <li><a href="verNotPrim.php" data-i18n="nav.error_pages.error_400" class="menu-item">Inicial y Primaria</a>
-                                        </li>
+                                       
                                         <li><a href="verNotSecu.php" data-i18n="nav.error_pages.error_401" class="menu-item">Secundaria</a>
                                         </li>
 
@@ -237,75 +230,9 @@
                                 </li>
                             </ul>
                         </li>
-                        <li class=" nav-item"><a href="#"><i class="icon-alert"></i><span data-i18n="nav.google_charts.main" class="menu-title">Incidencias</span></a>
-                            <ul class="menu-content">
-                                <li><a href="selecAlumnoInsidencia.php" data-i18n="nav.google_charts.google_bar_charts" class="menu-item">Ver Incidencias</a>
-                                </li>
-                                <li><a href="regInsidencia.php" data-i18n="nav.google_charts.google_bar_charts" class="menu-item">Registrar Incidencia</a>
-                                </li>
+                        
 
-
-                            </ul>
-                        </li>
-                        <li class=" nav-item"><a href="#"><i class="icon-table2"></i><span data-i18n="nav.google_charts.main" class="menu-title">Asistencias</span></a>
-                            <ul class="menu-content">
-                                <li><a href="verAsistencias.php" data-i18n="nav.google_charts.google_bar_charts" class="menu-item">Ver Asitencias Alumnos</a>
-                                </li>
-                                <li><a href="verDoncenteAsistencia.php" data-i18n="nav.google_charts.google_bar_charts" class="menu-item">Ver Asitencias Docentes</a>
-                                </li>
-
-                            </ul>
-                        </li>
-                        <li class=" nav-item"><a href="#"><i class="icon-bar-graph-2"></i><span data-i18n="nav.google_charts.main" class="menu-title">Caja</span></a>
-                            <ul class="menu-content">
-                                <li><a href="verDeudas.php" data-i18n="nav.google_charts.google_bar_charts" class="menu-item">Ver Deudas Registradas</a>
-                                </li>
-                                <li><a href="regDeuda.php" data-i18n="nav.google_charts.google_line_charts" class="menu-item">Registrar Deudas</a>
-                                </li>
-                                <li><a href="verPagos.php" data-i18n="nav.google_charts.google_pie_charts" class="menu-item">Ver Pagos Recibidos</a>
-                                </li>
-                                <li><a href="compromisos.php" class="menu-item">Compromisos de Pagos</a>
-                                </li>
-                            </ul>
-                        </li>
-
-                        <li class=" nav-item"><a href="#"><i class="icon-layout"></i><span data-i18n="nav.components.main" class="menu-title">Periodico Mural</span></a>
-                            <ul class="menu-content">
-
-                                <li><a href="#" data-i18n="nav.error_pages.main" class="menu-item">Calendario Civico</a>
-                                    <ul class="menu-content">
-                                        <li><a href="regFechas.php" data-i18n="nav.error_pages.error_400" class="menu-item">Agregar fecha</a>
-                                        </li>
-                                        <li><a href="verFechas.php" data-i18n="nav.error_pages.error_400" class="menu-item">Ver Fechas</a>
-                                        </li>
-
-                                    </ul>
-                                </li>
-                                <li><a href="#" data-i18n="nav.error_pages.main" class="menu-item">Alumnos de la semana</a>
-                                    <ul class="menu-content">
-                                        <li><a href="verElegidos.php" data-i18n="nav.error_pages.error_400" class="menu-item">Ver Actual</a>
-                                        </li>
-                                        <li><a href="regElegidos.php" data-i18n="nav.error_pages.error_400" class="menu-item">Cambiar</a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li><a href="#" data-i18n="nav.error_pages.main" class="menu-item">Padres de la semana</a>
-                                    <ul class="menu-content">
-                                        <li><a href="verPadresElegidos.php" data-i18n="nav.error_pages.error_400" class="menu-item">Ver Actual</a>
-                                        </li>
-                                        <li><a href="regPadresElegidos.php" data-i18n="nav.error_pages.error_400" class="menu-item">Cambiar</a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li><a href="#" data-i18n="nav.error_pages.main" class="menu-item">Videos</a>
-                                    <ul class="menu-content">
-                                        <li><a href="video.php" data-i18n="nav.error_pages.error_400" class="menu-item">Ver Actual</a>
-                                        </li>
-
-                                    </ul>
-                                </li>
-                            </ul>
-                        </li>
+                       
                         <li class=" nav-item"><a href="#"><i class="icon-settings"></i><span data-i18n="nav.components.main" class="menu-title">Mantenimiento</span></a>
                             <ul class="menu-content">
                                 <!--
@@ -314,12 +241,7 @@
                                 -->
                                 <li><a href="verPeriodos.php" data-i18n="nav.components.component_alerts" class="menu-item">Periodos</a>
                                 </li>
-                                <li><a href="horarios.php" data-i18n="nav.components.component_alerts" class="menu-item">Horarios</a>
-                                </li>
-                                <li><a href="ClassRoom.php" data-i18n="nav.components.component_alerts" class="menu-item">ClassRoom</a>
-                                </li>
-                                <li><a href="Vsolicitudes.php" data-i18n="nav.components.component_alerts" class="menu-item">Solicitudes</a>
-                                </li>
+                                
                                 <!--
                                 <li><a href="mantenimiento.php" data-i18n="nav.components.components_buttons.component_buttons_basic" class="menu-item">Tipo de Deuda</a>
                                 </li> -->
@@ -349,37 +271,15 @@
                                 </li>
 
                             </ul>
-                        <li class=" nav-item"><a href="#"><i class="icon-newspaper"></i><span data-i18n="nav.icons.main" class="menu-title">Targetas RFID</span></a>
-                            <ul class="menu-content">
-                                <li><a href="verTarjeta.php" data-i18n="nav.icons.icons_feather" class="menu-item">VER targetas Asignadas</a>
-                                </li>
+                        
 
-
-                            </ul>
-                        </li>
-
-                     <!--  <li class=" nav-item"><a href="#"><i class="icon-eye6"></i><span data-i18n="nav.icons.main" class="menu-title">Historial</span></a>
-                        <ul class="menu-content">
-                          <li><a href="mantenimiento.php" data-i18n="nav.icons.icons_feather" class="menu-item">Cambios Por dia</a>
-                          </li>
-                          <li><a href="mantenimiento.php" data-i18n="nav.icons.icons_ionicons" class="menu-item">Cambios Por Mes</a>
-                          </li>
-                          <li><a href="mantenimiento.php" data-i18n="nav.icons.icons_fps_line" class="menu-item">Cambios Por Usuarios</a>
-                          </li>
-                          <li><a href="mantenimiento.php" data-i18n="nav.icons.icons_ico_moon" class="menu-item">Cambios en Notas</a>
-                          </li>
-                        </ul>
-                          </li>-->
+                    
 
 
 
 
                 </div>
 
-                <!-- /main menu content-->
-                <!-- main menu footer-->
-                <!-- include includes/menu-footer-->
-                <!-- main menu footer-->
             </div>
             <!-- / main menu-->
         <?php } else if ($idtipo == 3) {
@@ -421,8 +321,6 @@
                         <li class=" nav-item"><a href="#"><i class="icon-whatshot"></i><span data-i18n="nav.advance_cards.main" class="menu-title">Matriculas</span></a>
                             <ul class="menu-content">
 
-                                <li><a href="verMatPrim.php" data-i18n="nav.cards.card_charts" class="menu-item">Ver Matriculas Inicial y Primaria</a>
-                                </li>
                                 <li><a href="verMatSecu.php" data-i18n="nav.cards.card_charts" class="menu-item">Ver Matricular Secundaria</a>
                                 </li>
 
@@ -434,8 +332,7 @@
 
                                 <li><a href="#" data-i18n="nav.error_pages.main" class="menu-item">Ver Boletas Notas</a>
                                     <ul class="menu-content">
-                                        <li><a href="verNotPrim.php" data-i18n="nav.error_pages.error_400" class="menu-item">Inicial y Primaria</a>
-                                        </li>
+                                       
                                         <li><a href="verNotSecu.php" data-i18n="nav.error_pages.error_401" class="menu-item">Secundaria</a>
                                         </li>
 
@@ -445,18 +342,6 @@
                             </ul>
                         </li>
 
-                        <li class=" nav-item"><a href="#"><i class="icon-bar-graph-2"></i><span data-i18n="nav.google_charts.main" class="menu-title">Caja</span></a>
-                            <ul class="menu-content">
-                                <li><a href="verDeudas.php" data-i18n="nav.google_charts.google_bar_charts" class="menu-item">Ver Deudas Registradas</a>
-                                </li>
-                                <li><a href="regDeuda.php" data-i18n="nav.google_charts.google_line_charts" class="menu-item">Registrar Deudas</a>
-                                </li>
-                                <li><a href="verPagos.php" data-i18n="nav.google_charts.google_pie_charts" class="menu-item">Ver Pagos Recibidos</a>
-                                </li>
-                                <li><a href="compromisos.php" class="menu-item">Compromisos de Pagos</a>
-                                </li>
-                            </ul>
-                        </li>
 
                 </div>
 

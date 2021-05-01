@@ -12,7 +12,7 @@ include '../modelo/dbodocente.php';
     $resultado = $control->VerTodosDocentes($q);
     if ($resultado->num_rows>0) {  
         $salida.="<table class='table table-striped ' border='1'>
-                        <thead class='bg-warning'>
+                        <thead class='bg-blue'>
                         <tr><th colspan='2'></th><th colspan='1'>IMPRIMIR EXCEL</th><th colspan='1'><a href='reporteAsistenciadocente.php' ><center><button type='buttom'><img src='img/print.jpg' width='40' height='40'></buttom></center></a></th></tr>
                         
                             <tr>

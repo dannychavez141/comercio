@@ -23,7 +23,7 @@ where concat(d.dni,d.apepa,d.apema,d.nomb) like '%$q%' and d.est='1' limit 20;";
     $resultado = $conn->query($query);
     if ($resultado->num_rows>0) {
         $salida.="<table class='table table-striped ' border='1'>
-                        <thead class='bg-warning'>
+                        <thead class='bg-blue'>
                         <tr>
                                 <th colspan='6'>LISTA DE DOCENTES REGISTRADOS</th>
                                 <th><a href='pdfreportes/replistadocentes.php' target='_blank' >

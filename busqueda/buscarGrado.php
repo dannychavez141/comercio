@@ -16,7 +16,7 @@ join estados e on g.est=e.idestados where concat(g.descr,t.descr) like '%$q%' li
     $resultado = $conn->query($query);
     if ($resultado->num_rows>0) {  
         $salida.="<table class='table table-striped ' border='1'>
-                        <thead class='bg-warning'>
+                        <thead class='bg-blue'>
                             <tr>
                                 <th>CODIGO</th>
                                 <th>NOMBRE DEL GRADO</th>

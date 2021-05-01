@@ -23,7 +23,7 @@ join tipogrado t on c.idtipogrado=t.idTipo where c.idtipogrado!=2 and concat(c.d
        
 
         $salida.="<table class='table table-striped ' border='1'>
-                        <thead class='bg-warning'>
+                        <thead class='bg-blue'>
                             <tr>
                                 <th>CODIGO</th>
                                 <th>NOMBRE DEL CURSO</th>

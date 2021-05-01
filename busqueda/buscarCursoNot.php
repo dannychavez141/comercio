@@ -52,7 +52,7 @@ if ($peri==1) {
        
 
         $salida.="<table class='table table-striped ' border='1'>
-                        <thead class='bg-warning'>
+                        <thead class='bg-blue'>
                         <tr>
                                <th colspan='4'>PERIODO SELECCIONADO:</th>
                                 

@@ -18,7 +18,7 @@ if ($resultado->num_rows > 0) {
 
 
     $salida .= "<table class='table table-striped ' border='1'>
-                        <thead class='bg-warning'>
+                        <thead class='bg-blue'>
                             <tr>
                                 <th>DNI</th>
                                 <th>APELLIDOS Y NOMBRES/(CARGO)</th>
