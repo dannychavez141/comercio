@@ -51,7 +51,7 @@ where concat(d.dni,d.apepa,d.apema,d.nomb) like '%$q%' and d.est='1' limit 20;";
                         <td>"."<center><img src='img/noimage.png' width='100' height='100'></center>"."</td>
                         <td><a href='pdfdocente.php?cod=".$fila[0]."' target='_blank' class='btn btn-success' ><center><img src='img/print.jpg' width='50' height='50'></center></a></td>
                         <td><a href='modDocente.php?cod=".$fila[0]."'class='btn btn-danger'   ><center><img src='img/edit.jpg' width='50' height='50'></center></a>"
-                       . "<a class='btn btn-warning' href='zoomdocente.php?cod=".$fila[0]."' ><center><img src='img/zoomlogo.png' width='50' height='50'></center></a></td></td></tr>";
+                       . "</td></td></tr>";
               }else{ $salida.="<tr>
                         <td>".$fila['dni']."</td>
                         <td>".$fila['apepa']." ".$fila['apema']." ".$fila['nomb']."</td>
@@ -60,7 +60,7 @@ where concat(d.dni,d.apepa,d.apema,d.nomb) like '%$q%' and d.est='1' limit 20;";
                         <td>"."<center><img src='img/docentes/".$fila[1].".".$fila[9]."' width='100' height='100'></center>"."</td>
                         <td><a href='pdfdocente.php?cod=".$fila[0]."' target='_blank' class='btn btn-success' ><center><img src='img/print.jpg' width='50' height='50'></center></a></td>
                         <td><a href='modDocente.php?cod=".$fila[0]."'class='btn btn-danger'   ><center><img src='img/edit.jpg' width='50' height='50'></center></a>"
-                       . "<a class='btn btn-warning' href='zoomdocente.php?cod=".$fila[0]."' ><center><img src='img/zoomlogo.png' width='50' height='50'></center></a></td></td></tr>";}
+                       . "</td></td></tr>";}
         }
         $salida.="</tbody></table>
         ";

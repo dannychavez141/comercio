@@ -213,7 +213,7 @@
     datospad: '',
     dnimad: '',
     datosmad: '',
-    btalu:0,
+    btalu:0,telf:"",dir:""
     btapo:0
   },
   methods: {

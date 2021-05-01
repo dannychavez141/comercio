@@ -38,7 +38,7 @@
                                 <br>
                                  <div class="row">
                                      <table class='table table-striped ' border='1'>
-                                        <thead class='bg-warning'>
+                                        <thead class='bg-blue'>
                             <tr>
                                 <th>CODIGO</th>
                                 <th>DESCRIPCION NIVEL EDUCATIVO</th>
@@ -48,8 +48,8 @@
                         </thead> 
 <tbody>
                             <form action="control/cNiveledu.php" method="post">
-                            <tr><td>GENERADO<input type="hidden" name="idcur" value="<?php echo $idcur ?>">
-                            </td><td><input type="text" name="descr" value="<?php echo $dato[2] ?>" size="30" require></td><td>
+                            <tr><td>GENERADO<input type="hidden" name="idcur" value="">
+                            </td><td><input type="text" name="descr" value="" size="30" require></td><td>
                             <select name="est">
                                 <option value="1">ACTIVO</option>
                                 <option value="2">INACTIVO</option>

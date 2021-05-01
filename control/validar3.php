@@ -34,7 +34,7 @@ where u.dni='$usuario' and u.pass='$pass' and u.est='1';";
             header("Location: ../index.php");
             exit();
         } else {
-            require 'generardeudas.php';
+            //require 'generardeudas.php';
             $sql = "INSERT INTO `historial` (`idUsuario`, `tabla`, `id`, `tablamod`, `descr`, `fecha`, `hora`) 
 VALUES ($row[0], 'usuario', '$row[0]','usuario', 'Inicio de Sesion " . $row[3] . ' ' . $row[4] . ' ' . $row[2] . "', now(),now());";
             // echo $sql;

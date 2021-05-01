@@ -43,7 +43,7 @@
                     <br>
                                  <div class="row">
                                      <table class='table table-striped ' border='1'>
-                                        <thead class='bg-primary'>
+                                        <thead class='bg-blue'>
                             <tr>
                                 <th>CODIGO</th>
                                 <th>DESCRIPCION DE CAPACIDAD</th>

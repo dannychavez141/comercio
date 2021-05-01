@@ -61,33 +61,11 @@ where m.idAnioEscolar=$anio[0] and m.est=1;";
                                         <?php
                                         }
                                         
-                                        $sql = "SELECT count(idAlumnos) FROM insidencias i
-join matricula m on i.IdMat = m.idMatricula
-join alumnos a on m.dnialu=a.dni
-where  m.idAnioEscolar=$anio[0] ;";
-                                        $registro = $mysqli->query($sql);
-                                        while ($datos = $registro->fetch_array()) {
-                                            $insidencias = $datos[0];
-                                        }
+                                        
 
 
 
-                                        $sql = "SELECT count(idpago) FROM pago p
-join deuda d on p.idDeuda=d.idDeuda
-join matricula m on d.idMatricula=m.idMatricula
-where m.idAnioEscolar=$anio[0];";
-                                        $pagos = 0;
-                                        while ($datos = $registro->fetch_array()) {
-                                            $pagos = $datos[0];
-                                        }
-                                        $sql = "SELECT count(idDeuda) FROM deuda d 
-join matricula m on d.idMatricula=m.idMatricula
-where m.idAnioEscolar=$anio[0];";
-                                        $deudas = 0;
-                                        $registro = $mysqli->query($sql);
-                                        while ($datos = $registro->fetch_array()) {
-                                            $deudas = $datos[0];
-                                        }
+                                        
                                         ?>
                                     </div>
                                     <div class="media-right media-middle">
@@ -110,8 +88,7 @@ where m.idAnioEscolar=$anio[0];";
            </div>
 
 </div>
-</div>
-</div>
+
 <!-- ////////////////////////////////////////////////////////////////////////////-->
 <?php
 include_once'./pie.php';
