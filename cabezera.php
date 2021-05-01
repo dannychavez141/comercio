@@ -6,7 +6,7 @@
     if (isset($_COOKIE['usuario'])) {
 
     } else {
-        echo"<script language='javascript'>window.location='premium/'</script>;";
+        echo"<script language='javascript'>window.location='principal/'</script>;";
         //header("Location: /premium/");
         exit();
     }
