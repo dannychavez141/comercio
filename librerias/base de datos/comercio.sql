@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: localhost:3306
--- Tiempo de generación: 01-05-2021 a las 04:51:54
+-- Tiempo de generación: 03-05-2021 a las 02:04:03
 -- Versión del servidor: 5.7.24
 -- Versión de PHP: 7.2.19
 
@@ -1954,30 +1954,6 @@ INSERT INTO `docente` (`idDocente`, `dni`, `nomb`, `apepa`, `apema`, `fnac`, `te
 (34, '73466779', 'GUIULIAN GUIULIANO', 'GONCALVEZ ', 'NORIEGA', '1996-05-03', '998 970 620', 'S/D ', '73466779', '0', 1, NULL, 1, 0, 4, 'PROFESOR DE CyT'),
 (35, '71705928', 'Paolo Licinio', 'Arroyo', 'Flores', '1955-05-08', 'S/N', 'S/D ', '71705928', '0', 1, NULL, 1, 0, 4, 'COMUNICACIÃ“N'),
 (36, '72202079', 'Darlene Alexandra', 'Alva ', 'Gonzales', '1955-05-12', '0', 'S/D ', '72202079', '0', 2, NULL, 1, 0, 4, 'INGLES');
-
--- --------------------------------------------------------
-
---
--- Estructura de tabla para la tabla `empresa`
---
-
-DROP TABLE IF EXISTS `empresa`;
-CREATE TABLE `empresa` (
-  `idempresa` int(11) NOT NULL,
-  `ruc` varchar(45) COLLATE utf8mb4_spanish_ci NOT NULL,
-  `razon` varchar(80) COLLATE utf8mb4_spanish_ci NOT NULL,
-  `direccion` varchar(45) COLLATE utf8mb4_spanish_ci NOT NULL,
-  `telefono` varchar(45) COLLATE utf8mb4_spanish_ci NOT NULL,
-  `slogan` varchar(100) COLLATE utf8mb4_spanish_ci NOT NULL,
-  `est` int(11) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_spanish_ci;
-
---
--- Volcado de datos para la tabla `empresa`
---
-
-INSERT INTO `empresa` (`idempresa`, `ruc`, `razon`, `direccion`, `telefono`, `slogan`, `est`) VALUES
-(1, '20601760461', 'PREMIUM COLLEGE S.R.L.', 'JR. IQUITOS NRO. 481 URB. SAN MARTIN UCAYALI ', ' (061) 286770', 'EDUCACÍON PRIMARIA-SECUNDARIA- PREUNIVERSITARIA', 1);
 
 -- --------------------------------------------------------
 
@@ -17224,9 +17200,9 @@ CREATE TABLE `tipogrado` (
 --
 
 INSERT INTO `tipogrado` (`idTipo`, `descr`, `est`) VALUES
-(1, 'PRIMARIA', 1),
+(1, 'PRIMARIA', 2),
 (2, 'SECUNDARIA', 1),
-(3, 'INICIAL', 1);
+(3, 'INICIAL', 2);
 
 -- --------------------------------------------------------
 
@@ -17283,10 +17259,10 @@ CREATE TABLE `tipomatricula` (
 --
 
 INSERT INTO `tipomatricula` (`idtipomatricula`, `descr`, `pencion`, `pago`, `est`) VALUES
-(1, 'MATRICULA NORMAL', 250, 300, 1),
-(2, 'MATRICULA 2DO HIJO', 230, 300, 1),
-(3, 'MATRICULA 3ER HIJO', 210, 300, 1),
-(4, 'MATRICULA HIJO TRABAJADOR', 140, 300, 1);
+(1, 'MATRICULA NORMAL', 0, 0, 1),
+(2, 'MATRICULA 2DO HIJO', 0, 0, 1),
+(3, 'MATRICULA 3ER HIJO', 0, 0, 1),
+(4, 'MATRICULA HIJO TRABAJADOR', 0, 0, 1);
 
 -- --------------------------------------------------------
 
