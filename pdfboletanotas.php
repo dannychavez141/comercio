@@ -6,7 +6,7 @@ $modo = 1;
 if (isset($_COOKIE['usuario'])) {
     echo "";
 } else {
-    header("Location: ./premium/index.php");
+    header("Location: ./principal/index.php");
     exit();
 }
 $usuario = $_COOKIE['usuario'];
@@ -99,7 +99,7 @@ where dni='$row[1]' and dniapo='$apodni';";
     $pdf->SetFont('Arial', '', 10);
     $pdf->Cell(50, 6, 'INSTITUCION EDUCATIVA', 1, 0, 'C', 1);
     $pdf->SetFont('Arial', 'B', 10);
-    $pdf->Cell(130, 6, 'PREMIUM COLLEGE', 1, 1, 'C');
+    $pdf->Cell(130, 6,  utf8_decode('COMERCIO N°64'), 1, 1, 'C');
     $pdf->SetX(15);
     $pdf->SetFont('Arial', '', 10);
     $pdf->Cell(50, 6, 'APELLIDOS Y  NOMBRES', 1, 0, 'C', 1);
