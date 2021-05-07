@@ -64,7 +64,7 @@ where dni='$row[1]' and dniapo='$apodni';";
             header("Location: ./familiares/nopariente.php");
             exit();
         }
-    }$pdf->SetFillColor(252, 213, 0);
+    }$pdf->SetFillColor(12, 183, 242);
     $pdf->Ln(5);
     $pdf->SetX(45);
     $pdf->Cell(120, 10, 'BOLETA DE INFORMACION - ' . utf8_decode($row[9]), 0, 0, 'C');
