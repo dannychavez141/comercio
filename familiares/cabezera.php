@@ -12,7 +12,7 @@ $idusuario=$_COOKIE['idUsuario'];
 $idtipo=$_COOKIE['idtipo'];
 $tipo=$_COOKIE['tipo'];
 if ($idtipo!=5) {
-    header("Location: ../premium/");
+    header("Location: ../principal/");
     exit();
 }
 ?>
@@ -23,7 +23,7 @@ if ($idtipo!=5) {
     <meta name="description" content="Robust admin is super flexible, powerful, clean &amp; modern responsive bootstrap 4 admin template with unlimited possibilities.">
     <meta name="keywords" content="admin template, robust admin template, dashboard template, flat admin template, responsive admin template, web app">
     <meta name="author" content="PIXINVENT">
-    <title>Premium College-Familiares</title>
+    <title>Comercio-Familiares</title>
     <link rel="apple-touch-icon" sizes="60x60" href="../librerias/app-assets/images/ico/apple-icon-60.png">
     <link rel="apple-touch-icon" sizes="76x76" href="../librerias/app-assets/images/ico/apple-icon-76.png">
     <link rel="apple-touch-icon" sizes="120x120" href="../librerias/app-assets/images/ico/apple-icon-120.png">
@@ -116,9 +116,9 @@ if ($idtipo!=5) {
               </li>
               <li><a href="verNotas.php" data-i18n="nav.page_layouts.1_column" class="menu-item">Ver Notas</a>
               </li>
-              <li><a href="verAsistencias.php" data-i18n="nav.page_layouts.1_column" class="menu-item">Ver Asistencias</a>
+<!--              <li><a href="verAsistencias.php" data-i18n="nav.page_layouts.1_column" class="menu-item">Ver Asistencias</a>
               </li>
-              <li><a href="verIncidencias.php" data-i18n="nav.page_layouts.1_column" class="menu-item">Ver Insidencias</a>
+              <li><a href="verIncidencias.php" data-i18n="nav.page_layouts.1_column" class="menu-item">Ver Insidencias</a>-->
               </li>
              
                <li class="navigation-divider"></li>
@@ -127,15 +127,7 @@ if ($idtipo!=5) {
              
             </ul>
           </li>
-       <!--    <li class=" nav-item"><a href="#"><i class="icon-android-options"></i><span data-i18n="nav.page_layouts.main" class="menu-title">Deudas y pagos</span></a>
-            <ul class="menu-content">
-              
-             <li><a href="verDeudas.php" data-i18n="nav.page_layouts.1_column" class="menu-item">Ver Deudas Pendietes</a>
-              </li>
-              <li><a href="verPagos.php" data-i18n="nav.page_layouts.2_columns" class="menu-item">Ver Pagos Realizados</a>
-              </li>
-            </ul>
-          </li>-->
+       
           
         </ul>
       </div>

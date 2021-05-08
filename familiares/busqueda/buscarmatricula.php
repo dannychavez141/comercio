@@ -63,7 +63,6 @@ where concat(a.dni,a.nomb,a.apepa,a.apema) like '%$q%' and ap.idApoderado='$idus
                                  <th>NIVEL</th>
                                 <th>GRADO Y SECCION</th>
                                 <th>AÑO ESCOLAR</th>
-                                <th>CLASES VIRTUALES</th>
                                 <th>IMPRIMIR</th>
                             </tr>
                         </thead>
@@ -78,7 +77,7 @@ where concat(a.dni,a.nomb,a.apepa,a.apema) like '%$q%' and ap.idApoderado='$idus
                        <td>".$fila[6]."</td>
                        <td>".$fila[10]." '".$fila[12]."'</td>
                        <td>".$fila[8]."</td>
-                        <td><a href='./clasesvirtuales.php?cod=".$fila[0]."'  class='btn btn-success'><center><img src='../img/logoint.png' width='70' height='70'></center></a></td></td>
+                        
                        <td><a href='../pdfboletamatricula.php?cod=".$fila[0]."' target='_blank' class='btn btn-warning'><center><img src='../img/print.jpg' width='70' height='70'></center></a></td></tr>";
         }
         $salida.="</tbody></table>

@@ -25,21 +25,7 @@ if ($idtipo == 5) {
     while ($datos = $registro->fetch_array()) {
         $apodni = $datos[0];
     }
-    require 'control/conexion.php';
-    $sql = "SELECT count(idDeuda) FROM deuda d 
-join matricula m on d.idMatricula=m.idMatricula
-join alumnos a on m.dnialu=a.dni
- where a.dniapo='$apodni' and d.est='1' and d.fecha<='$hoy';";
-
-    $deudas = 0;
-    $registro = $mysqli->query($sql);
-    while ($datos = $registro->fetch_array()) {
-        $deudas = $datos[0];
-    }
-    if ($deudas != 0) {
-       header("Location: ./familiares/reportedeuda.php");
-       // exit();
-    }
+    
 }
 include 'control/conexion.php';
 $id = $_GET['cod'];
