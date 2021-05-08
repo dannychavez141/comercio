@@ -151,7 +151,7 @@ join tipogrado t on c.idtipogrado=t.idTipo where c.idCursos=$cur;";
                                                     $competencias = $mysqli->query($sql2);
                                                     $cajas = $competencias->num_rows;
                                                     ?>
-                                                    <thead class='bg-warning'>
+                                                    <thead class='bg-blue'>
                                                         <tr><th colspan="2" ><font size="1"> <p align="center">DATOS DE ALUMNO</p></font></th>
                                                             <th colspan="<?php echo $cajas ?>"><font size="1"> <p align="center">COMPETENCIAS</p></font></th>
                                                             <th  ><font size="1"> <p align="center">PROMEDIO</p></font></th>

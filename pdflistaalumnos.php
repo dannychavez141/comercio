@@ -90,7 +90,7 @@ join tipogrado t on g.idTipo=t.idTipo where g.idGrado='$grado';";
         $pdf->SetFillColor(232, 232, 232);
         $pdf->SetFont('Arial', 'B', 9);
         $pdf->SetX(50);
-        $pdf->Cell(125, 6, 'PREMIUM COLLEGE', 1, 1, 'C', 1);
+        $pdf->Cell(125, 6, utf8_decode('COMERCIO N° 64'), 1, 1, 'C', 1);
 
         $pdf->SetX(50);
         $pdf->Cell(50, 6, 'GRADO Y SECCION', 1, 0, 'C', 1);

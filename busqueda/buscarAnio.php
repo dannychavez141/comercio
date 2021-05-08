@@ -8,12 +8,12 @@ include_once'../control/conexion.php';
     $salida = "";
 
     $query = "SELECT * FROM anioescolar a 
-join estados e on a.est=e.idestados where concat(a.descr,e.descr ) like '%%' limit 20;";
+join estados e on a.est=e.idestados where concat(a.descr,e.descrEst ) like '%%' limit 20;";
 
     if (isset($_POST['consulta'])) {
         $q = $conn->real_escape_string($_POST['consulta']);
         $query = "SELECT * FROM anioescolar a 
-join estados e on a.est=e.idestados where concat(a.descr,e.descr ) like '%$q%' limit 20;";
+join estados e on a.est=e.idestados where concat(a.descr,e.descrEst ) like '%$q%' limit 20;";
     }
 
     $resultado = $conn->query($query);

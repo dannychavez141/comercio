@@ -43,7 +43,7 @@ concat(a.dni,a.nomb,a.apepa,a.apema,a.fnac,ap.dni,ap.apepa,ap.apema) like  '%$q%
        
 
         $salida.="<table class='table table-striped ' border='1'>
-                        <thead class='bg-warning'>
+                        <thead class='bg-blue'>
                             <tr>
                                 <th>DNI</th>
                                 <th>DATOS ALUMNO</th>

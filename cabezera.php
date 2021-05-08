@@ -247,8 +247,8 @@
                                 </li> -->
                                 <li><a href="niveleducativo.php" data-i18n="nav.components.component_carousel" class="menu-item">Tipo de Niveles Educativos</a>
 
-                                <li><a href="mantenimiento.php" data-i18n="nav.components.component_collapse" class="menu-item">Tipo Usuario</a>
-                                </li>
+<!--                                <li><a href="mantenimiento.php" data-i18n="nav.components.component_collapse" class="menu-item">Tipo Usuario</a>
+                                </li>-->
 
                                 <li><a href="#" data-i18n="nav.error_pages.main" class="menu-item">Año Escolar</a>
                                     <ul class="menu-content">

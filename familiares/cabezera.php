@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en" data-textdirection="premiun" class="loading">
+<html lang="es" data-textdirection="premiun" class="loading">
 <?php
 if (isset($_COOKIE['usuario'])) {
     echo "";
 }else{
-    header("Location: ../premium/index.php");
+    header("Location: ../principal/index.php");
     exit();
 }
 $usuario=$_COOKIE['usuario'];

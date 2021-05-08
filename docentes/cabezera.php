@@ -121,13 +121,13 @@ window.location.replace('../login.php');
           
           <li class=" nav-item"><a href="#"><i class="icon-happy"></i><span data-i18n="nav.page_layouts.main" class="menu-title">Cursos a Cargo</span></a>
             <ul class="menu-content">
-              <li><a href="verCursos.php" data-i18n="nav.page_layouts.1_column" class="menu-item">Ver Cursos</a>
+              <li><a href="verCursos.php" data-i18n="nav.page_layouts.1_column" class="menu-item">Ver Cursos y Evaluacion</a>
               </li>
               </li>
               
             </ul>
           </li>
-          <li class=" nav-item"><a href="#"><i class="icon-happy"></i><span data-i18n="nav.page_layouts.main" class="menu-title">FICHA DE CLASES</span></a>
+<!--          <li class=" nav-item"><a href="#"><i class="icon-happy"></i><span data-i18n="nav.page_layouts.main" class="menu-title">FICHA DE CLASES</span></a>
             <ul class="menu-content">
               <li><a href="verFicha.php" data-i18n="nav.page_layouts.1_column" class="menu-item">Ver Fichas</a>
               </li>
@@ -136,8 +136,8 @@ window.location.replace('../login.php');
               </li>
               
             </ul>
-          </li>
-          <li class=" nav-item"><a href="#"><i class="icon-diagram"></i><span data-i18n="nav.page_layouts.main" class="menu-title">Repositorio Virtual</span></a>
+          </li>-->
+<!--          <li class=" nav-item"><a href="#"><i class="icon-diagram"></i><span data-i18n="nav.page_layouts.main" class="menu-title">Repositorio Virtual</span></a>
             <ul class="menu-content">
               
              <li><a href="verTrabajos.php" data-i18n="nav.page_layouts.1_column" class="menu-item">Ver Trabajos </a>
@@ -145,8 +145,8 @@ window.location.replace('../login.php');
               <li><a href="regTrabajo.php" data-i18n="nav.page_layouts.2_columns" class="menu-item">Registrar Trabajo</a>
               </li>
             </ul>
-          </li>
-          <li class=" nav-item"><a href="#"><i class="icon-android-options"></i><span data-i18n="nav.page_layouts.main" class="menu-title">Insidencias</span></a>
+          </li>-->
+<!--          <li class=" nav-item"><a href="#"><i class="icon-android-options"></i><span data-i18n="nav.page_layouts.main" class="menu-title">Insidencias</span></a>
             <ul class="menu-content">
               
              <li><a href="verIncidencia.php" data-i18n="nav.page_layouts.1_column" class="menu-item">Ver Insidencias</a>
@@ -154,7 +154,7 @@ window.location.replace('../login.php');
               <li><a href="selecAlumno.php" data-i18n="nav.page_layouts.2_columns" class="menu-item">Registrar insidencias</a>
               </li>
             </ul>
-          </li>
+          </li>-->
           
         </ul>
       </div>

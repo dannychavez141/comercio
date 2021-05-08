@@ -11,12 +11,11 @@ if (isset($_POST['anio'])) {
     $anio=0;
     }
 
-$server="179.61.12.105";
-$user="premiumc_premium";
-$pass="Losloles54";
-$bd="premiumc_premiumcollege";
+$server="localhost";
+$user="root";
+$pass="";
+$bd="comercio";
 $mysqli = new mysqli($server,$user,$pass,$bd);  
- //$mysqli = new mysqli("179.61.12.105","premiumc_premium","Losloles54","premiumc_premiumcollege");
     if(mysqli_connect_errno()){
         echo 'Conexion Fallida : ', mysqli_connect_error();
         exit();
@@ -51,8 +50,8 @@ $columna=0;
 $lfila= array('A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z','AA' );
 $objPHPExcel = new PHPExcel();
 $objPHPExcel->getProperties()
-        ->setCreator("Premium College")
-        ->setLastModifiedBy("Premium College")
+        ->setCreator("Comercio n64")
+        ->setLastModifiedBy("Comercio n64")
         ->setTitle("Excel en PHP")
         ->setSubject("Documento de prueba")
         ->setDescription("Documento generado con PHPExcel")

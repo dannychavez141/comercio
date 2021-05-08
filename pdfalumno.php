@@ -21,7 +21,7 @@ while ($row = $resultado->fetch_array()) {
     if (isset($_COOKIE['usuario'])) {
         echo "";
     } else {
-        header("Location: ./premium/index.php");
+        header("Location: ./principal/index.php");
         exit();
     }
     $usuario = $_COOKIE['usuario'];

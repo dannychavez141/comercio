@@ -4,7 +4,7 @@ $anio = $_POST['anio'];
 if (isset($_COOKIE['usuario']) && $_COOKIE['usuario']!="") {
     echo "";
 }else{
-    header("Location: ../premium/index.php");
+    header("Location: ../principal/index.php");
     exit();
 }
 $usuario=$_COOKIE['usuario'];
@@ -51,7 +51,7 @@ where concat(a.dni,a.nomb,a.apepa,a.apema) like '%$q%' and ap.idApoderado='$idus
     $resultado = $conn->query($query);
     if ($resultado->num_rows>0) {
         $salida.="<table class='table table-striped ' border='1'>
-                        <thead class='bg-warning'>
+                        <thead class='bg-blue'>
                         <tr>
                                <th colspan='8'>IMPRIMIR LISTA DE ALUMNOS:</th>
                                 
