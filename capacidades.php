@@ -94,7 +94,7 @@ join tipogrado t on c.idtipogrado=t.idTipo where c.idCursos=$id;";
                                 <br>
                                  <div class="row">
                                      <table class='table table-striped ' border='1'>
-                                        <thead class='bg-warning'>
+                                        <thead class='bg-blue'>
                             <tr>
                                 <th>CODIGO</th>
                                 <th>DESCRIPCION DE LA CAPACIDAD</th>

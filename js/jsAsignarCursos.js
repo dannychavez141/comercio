@@ -24,7 +24,7 @@ Error en al modificar Alumno. \n\
 function llenartabla(datos) {
     var tablas = document.getElementById('listaasignaciones');
     var plantilla = "<table class='table table-striped ' border='1' align='center'>\n\
-    <tr class='bg-warning'><<td>CURSO</td><td>GRADO Y SECCION</td><td>AÑO</td><td>QUITAR</td></tr>";
+    <tr class='bg-blue'><td>CURSO</td><td>GRADO Y SECCION</td><td>AÑO</td><td>QUITAR</td></tr>";
     var cantidad = datos.length;
     for (var i = 0; i < cantidad; i++) {
 //console.log(datos[i]);
