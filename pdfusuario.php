@@ -12,7 +12,7 @@ $usuario=$_COOKIE['usuario'];
 $idusuario=$_COOKIE['idUsuario'];
 $idtipo=$_COOKIE['idtipo'];
 $tipo=$_COOKIE['tipo'];
-if ($idtipo!=1) {
+if ($idtipo!=1 && $idtipo!=6) {
     header("Location: ../login.php");
     exit();
 }
