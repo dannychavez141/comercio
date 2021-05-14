@@ -4,7 +4,6 @@ class cConexion {
     private $bd;
     function __construct() {
      $this->bd = new mysqli('localhost','root','','comercio');  
-  //$this->bd = new mysqli("179.61.12.105","premiumc_premium","Losloles54","premiumc_premiumcollege");
 	if($this->bd->connect_errno){
 		echo 'Conexion Fallida : ', $this->bd->connect_errno;
 		exit();
