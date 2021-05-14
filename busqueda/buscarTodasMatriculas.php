@@ -13,15 +13,13 @@ if (count($matriculas) > 0) {
     $salida .= "<table class='table table-striped ' border='1'>
         <thead class='bg-blue'>
                             <tr>
-                               <th colspan='5'>IMPRIMIR LISTA DE ALUMNOS MATRICULADOS: <a href='./pdfreportes/reporteTotalMat.php' target='_blank' >
+                               <th colspan='6'>IMPRIMIR LISTA DE ALUMNOS MATRICULADOS: <a href='./pdfreportes/reporteTotalMat.php' target='_blank' >
                                     <button type='button' align='center'>REPORTE MATRICULADOS PDF</button>
                                     </a>
                                </th>
                                 
                                 <th colspan='3'align='center'> 
-                                <a href='./reporteexcel/repapoderados.php?anio=" . $anio[0] . "' target='_blank' >
-                                    <button type='button' align='center'>REPORTE MATRICULADOS EXCEL</button>
-                                    </a></th>
+                                </th>
                             </tr>
                             <tr>
                                 <th>MATRICULA NRO</th>

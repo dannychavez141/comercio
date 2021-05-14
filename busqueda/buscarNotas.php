@@ -12,7 +12,7 @@ if ($conn->connect_error) {
 $salida = "";
 
 $query = "call vermatricula('', $anio, $grado, $secc);";
-echo $query;
+//echo $query;
 if (isset($_POST['consulta'])) {
     $q = $conn->real_escape_string($_POST['consulta']);
 

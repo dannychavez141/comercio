@@ -220,14 +220,7 @@
 
                                     </ul>
                                 </li>
-                                <li><a href="#" data-i18n="nav.error_pages.main" class="menu-item">Exportar Resumen </a>
-                                    <ul class="menu-content">
-                                        <li><a href="reporteexcel.php" data-i18n="nav.error_pages.error_400" class="menu-item">Exportar</a>
-                                        </li>
-
-
-                                    </ul>
-                                </li>
+                                
                             </ul>
                         </li>
                         
