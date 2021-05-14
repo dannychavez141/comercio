@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: localhost:3306
--- Tiempo de generación: 03-05-2021 a las 02:04:03
+-- Tiempo de generación: 14-05-2021 a las 17:36:07
 -- Versión del servidor: 5.7.24
 -- Versión de PHP: 7.2.19
 
@@ -1868,16 +1868,16 @@ INSERT INTO `cursos` (`idCursos`, `descr`, `idtipogrado`, `est`) VALUES
 (8, 'EDUCACION PARA EL TRABAJO', '2', 1),
 (9, 'INGLES', '2', 1),
 (10, 'EDUCACION RELIGIOSA', '2', 1),
-(11, 'PERSONAL SOCIAL', '1', 1),
-(12, 'EDUCACION FISICA', '1', 1),
-(13, 'COMUNICACION LENGUA MATERNA', '1', 1),
-(14, 'ARTE Y CULTURA', '1', 1),
+(11, 'PERSONAL SOCIAL', '1', 2),
+(12, 'EDUCACION FISICA', '1', 2),
+(13, 'COMUNICACION LENGUA MATERNA', '1', 2),
+(14, 'ARTE Y CULTURA', '1', 2),
 (15, 'COMUNICACIÃ“N SEGUNDA LENGUA', '1', 2),
-(16, 'MATEMATICA', '1', 1),
-(17, 'CIENCIA Y TECNOLOGIA', '1', 1),
-(18, 'EDUCACION RELIGIOSA', '1', 1),
-(19, 'INGLES', '1', 1),
-(20, 'PERSONAL SOCIAL', '3', 1),
+(16, 'MATEMATICA', '1', 2),
+(17, 'CIENCIA Y TECNOLOGIA', '1', 2),
+(18, 'EDUCACION RELIGIOSA', '1', 2),
+(19, 'INGLES', '1', 2),
+(20, 'PERSONAL SOCIAL', '3', 2),
 (21, 'PSICOMOTRIZ', '3', 1),
 (22, 'COMUNICACION', '3', 1),
 (23, 'CASTELLANO COMO SEGUNDA LENGUA', '3', 2),
@@ -1920,12 +1920,12 @@ CREATE TABLE `docente` (
 INSERT INTO `docente` (`idDocente`, `dni`, `nomb`, `apepa`, `apema`, `fnac`, `telf`, `dir`, `pass`, `ext`, `idsex`, `targeta`, `est`, `saldo`, `idtipo`, `detalle`) VALUES
 (1, '42453726', 'LIVIS VANESSA', 'PINEDO', 'SILVA', '1984-03-31', '966925166', 'JR.PACHITEA #643   ', 'brenda2005', '0', 2, NULL, 2, 0, 1, ''),
 (2, '00092343', 'ALEJANDRO', 'CORDOVA', 'RIOS', '1970-10-28', '975764008', 'URB.LAURA ROZA MZ:21 LT:10    ', 'MILIJUN', '0', 1, NULL, 2, 0, 2, ''),
-(3, '44050970', 'LIZBETH', 'RUIZ', 'CHAVEZ', '1986-10-24', '900608570', 'JR.TACNA MZ: 7 LT: 21    ', '2418', '0', 2, NULL, 1, 0, 3, '1ER GRADO'),
-(4, '09672396', 'ANA MARIA', 'ESPINOZA', 'RUIZ', '1973-04-15', '951603518', 'AV.UNION #318    ', 'eduardo', '0', 2, NULL, 1, 0, 1, 'INGLES INICIAL Y PRIMARIA'),
+(3, '44050970', 'LIZBETH', 'RUIZ', 'CHAVEZ', '1986-10-24', '900608570', 'JR.TACNA MZ: 7 LT: 21     ', '2418', '0', 2, NULL, 2, 0, 3, '1ER GRADO'),
+(4, '09672396', 'ANA MARIA', 'ESPINOZA', 'RUIZ', '1973-04-15', '951603518', 'AV.UNION #318     ', 'eduardo', '0', 2, NULL, 2, 0, 1, 'INGLES INICIAL Y PRIMARIA'),
 (5, '00031338', 'AGLAES', 'NAVARRO', 'FASANANDO', '1964-06-10', '933446952', 'JR.RAYMONDI #1068    ', '00031338AGNA', '0', 1, NULL, 2, 0, 3, '3ER GRADO'),
-(6, '00031862', 'LITA NORMA', 'DEL AGUILA', 'FLORES', '1963-02-26', '920098383', 'AV.BELLAVISTA #640    ', '020694', '0', 2, NULL, 1, 0, 3, '6TO GRADO'),
-(7, '00095631', 'SANDRA', 'RAMIREZ', 'NAVARRO', '1972-08-03', '953931942', 'URB.LAURA ROZA MZ:21 LT:10     ', '03081972', '0', 2, NULL, 1, 0, 3, '2DO GRADO'),
-(8, '00110038', 'SONIA ROXANA', 'LOPEZ', 'DE VIA', '1972-02-06', '971463734', 'JR.IQUITOS #481     ', 'Sonia2019', '0', 2, NULL, 1, 0, 7, 'NIVEL PRIMARIA'),
+(6, '00031862', 'LITA NORMA', 'DEL AGUILA', 'FLORES', '1963-02-26', '920098383', 'AV.BELLAVISTA #640     ', '020694', '0', 2, NULL, 2, 0, 3, '6TO GRADO'),
+(7, '00095631', 'SANDRA', 'RAMIREZ', 'NAVARRO', '1972-08-03', '953931942', 'URB.LAURA ROZA MZ:21 LT:10      ', '03081972', '0', 2, NULL, 2, 0, 3, '2DO GRADO'),
+(8, '00110038', 'SONIA ROXANA', 'LOPEZ', 'DE VIA', '1972-02-06', '971463734', 'JR.IQUITOS #481      ', 'Sonia2019', '0', 2, NULL, 2, 0, 7, 'NIVEL PRIMARIA'),
 (9, '70017214', 'MONICA DEL ROSARIO', 'VASQUEZ', 'SABALBEASCOA', '1995-10-29', '989199865', 'JR.LAS MARGARITAS MZ:14 LT:2    ', 'Monica29', '0', 2, NULL, 2, 0, 4, 'INGLES'),
 (10, '42784796', 'ROY IVAN', 'RUIZ', 'VILLAORDUÃ‘A', '1989-10-31', '986470779', 'AV,FAUSTINO MALDONADO MZ:D LT:8     ', 'IVAN311084', '0', 1, NULL, 2, 0, 1, 'ARTE Y EDUC. POR EL TRABAJO'),
 (11, '45742770', 'CESAR JOHSEN', 'RIOS', 'SANCHEZ', '1984-05-15', '95776046', 'JR.ZAVALA #501    ', 'verraco2019', '0', 1, NULL, 1, 0, 4, 'MATEMÃTICA'),
@@ -1941,7 +1941,7 @@ INSERT INTO `docente` (`idDocente`, `dni`, `nomb`, `apepa`, `apema`, `fnac`, `te
 (21, '00022841', 'LUIS ALBERTO', 'DAVILA', 'REYNA', '1958-09-24', '945190834', 'JR AGUSTO B.LEGUIA 475   ', '00022841', '0', 1, NULL, 2, 0, 4, 'CIENCIA Y TECNOLOGIA'),
 (22, '00106557', 'JENNY', 'CAVA', 'PEREYRA', '1974-09-02', '920140155', 'JR. ARICA NÂ°254   ', '00106557', '0', 2, NULL, 2, 0, 1, 'EDUC. FISICA'),
 (23, '00029781', 'EDSON MAURO', 'MELENDEZ', 'GONZALES', '1959-02-02', '922409042', 'JR. URUBAMBA # 384   ', '00029781', '0', 1, NULL, 2, 0, 5, ''),
-(24, '72904648', 'ROSA MAGNA', 'ALVARADO', 'DEL CASTILLO', '1993-11-22', '954421346', 'JR. FRANCISCO BOLOGNESI MZ.Y LT.4  ', '72904648', '0', 2, NULL, 1, 0, 2, '3,4,5 AÃ‘OS'),
+(24, '72904648', 'ROSA MAGNA', 'ALVARADO', 'DEL CASTILLO', '1993-11-22', '954421346', 'JR. FRANCISCO BOLOGNESI MZ.Y LT.4   ', '72904648', '0', 2, NULL, 2, 0, 2, '3,4,5 AÃ‘OS'),
 (25, '21143303', 'PAUL VICENTE', 'QUINTANA', 'YANTAS', '1956-03-09', '938237158', 'JR. LOS OLMOS MZ.253 LT.3, YARINACOCHA   ', '21143303', '0', 1, NULL, 2, 0, 3, '4TO GRADO'),
 (26, '00023247', 'CLODOMIRO', 'MONTENEGRO', 'ROJAS', '1956-03-09', '985588142', 'CLLE SAGRADA FAMILIA MZ.K LT.16,YARINACOCHA   ', '00023247', '0', 1, NULL, 2, 0, 5, ''),
 (27, '45127907', 'EDBER ALBERTO', 'JONES', 'MORENO', '1988-03-18', '968866112', 'JR. TACNA MZ.39 LT.31, YARINACOCHA  ', '45127907', '0', 1, NULL, 1, 0, 3, '5TO GRADO'),
@@ -1997,20 +1997,20 @@ CREATE TABLE `grado` (
 --
 
 INSERT INTO `grado` (`idGrado`, `descr`, `idTipo`, `est`) VALUES
-(1, '1ro', 1, 1),
-(2, '2do', 1, 1),
-(3, '3ro', 1, 1),
-(4, '4to', 1, 1),
-(5, '5to', 1, 1),
-(6, '6to', 1, 1),
+(1, '1ro', 1, 2),
+(2, '2do', 1, 2),
+(3, '3ro', 1, 2),
+(4, '4to', 1, 2),
+(5, '5to', 1, 2),
+(6, '6to', 1, 2),
 (7, '1ro', 2, 1),
 (8, '2do', 2, 1),
 (9, '3ro', 2, 1),
 (10, '4to', 2, 1),
 (11, '5to', 2, 1),
-(12, 'TRES AÃ‘OS', 3, 1),
-(13, 'CUATRO AÃ‘OS', 3, 1),
-(14, 'CINCO AÃ‘OS', 3, 1);
+(12, 'TRES AÃ‘OS', 3, 2),
+(13, 'CUATRO AÃ‘OS', 3, 2),
+(14, 'CINCO AÃ‘OS', 3, 2);
 
 -- --------------------------------------------------------
 
@@ -17302,12 +17302,12 @@ CREATE TABLE `tipousuario` (
 --
 
 INSERT INTO `tipousuario` (`idTipoUsuario`, `descr`) VALUES
-(1, 'DIRECTOR'),
+(1, 'ADMINISTRADOR'),
 (2, 'CAFETIN'),
 (3, 'CAJA'),
 (4, 'DOCENTE'),
 (5, 'FAMILIAR'),
-(6, 'ADMINISTRADOR');
+(6, 'SECRETARIA');
 
 -- --------------------------------------------------------
 
@@ -17360,10 +17360,9 @@ CREATE TABLE `usuario` (
 --
 
 INSERT INTO `usuario` (`idUsuario`, `dni`, `nomb`, `apepa`, `apema`, `fnac`, `telf`, `dir`, `idTipoUsuario`, `pass`, `ext`, `idsex`, `est`) VALUES
-(1, '00086749', 'JOSE ELMO', 'VIA', 'MALPARTIDA', '1970-01-01', '948046469', 'JR. IQUITOS #481  ', 1, '12341234', 'jpg', 1, 1),
-(2, '71043266', 'DANNY MANUEL', 'CHAVEZ', 'HERRERA', '1996-06-13', '596675', 'jr.PomaRosa mz:F lt:3     ', 6, 'danny_19961', 'jpg', 1, 1),
-(3, '71980782', 'JOSE MANUEL', 'VIA', 'LOPEZ', '1997-03-05', '944942520', 'JR. IQUITOS #481 ', 6, '041214gg', '0', 1, 1),
-(4, '21140435', 'ESMIRNA VIOLETA', 'BARTRA', 'GARCIA', '1973-08-07', '961093544', 'JR SARGENTO LORES 501', 3, 'viole739', '0', 2, 1);
+(1, '00086749', 'JUAN', 'DEL AGUILA', 'CORREA', '1970-01-01', '948046469', 'JR. IQUITOS #481   ', 1, '12341234', 'png', 1, 1),
+(2, '71043266', 'MARIA FERNANDA', 'PEREZ', 'PEZO', '1996-06-13', '596675', 'jr.PomaRosa mz:F lt:3       ', 6, '123456', 'png', 2, 1),
+(3, '71980782', 'JONATHAN', 'PANDURO ', 'SALAS', '1997-03-05', '944942520', 'JR. IQUITOS #481 ', 6, '041214gg', '0', 1, 1);
 
 --
 -- Índices para tablas volcadas
