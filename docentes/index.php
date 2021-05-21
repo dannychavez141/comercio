@@ -8,7 +8,7 @@
         </div>
         <div class="content-body"><!-- stats -->
 <div class="row">
-   <h1>BIENVENIDO AL AREA DEL DOCENTE PREMIUM COLLEGE</h1>
+   <h1>BIENVENIDO AL AREA DEL DOCENTE</h1>
 <div class="col-md-12 col-sm-12">
             <div class="card">
                 
