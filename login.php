@@ -39,15 +39,6 @@ if (isset($_GET['msj'])) {
         <meta name="keywords" content="admin template, robust admin template, dashboard template, flat admin template, responsive admin template, web app">
         <meta name="author" content="PIXINVENT">
         <title>Comercio N°64</title>
-        <link rel="apple-touch-icon" sizes="60x60" href="/librerias/app-assets/images/ico/apple-icon-60.png">
-        <link rel="apple-touch-icon" sizes="76x76" href="/librerias/app-assets/images/ico/apple-icon-76.png">
-        <link rel="apple-touch-icon" sizes="120x120" href="/librerias/app-assets/images/ico/apple-icon-120.png">
-        <link rel="apple-touch-icon" sizes="152x152" href="/librerias/app-assets/images/ico/apple-icon-152.png">
-        <link rel="shortcut icon" type="image/x-icon" href="/librerias/app-assets/images/ico/favicon.ico">
-        <link rel="shortcut icon" type="image/png" href="/librerias/app-assets/images/ico/favicon-32.png">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="apple-touch-fullscreen" content="yes">
-        <meta name="apple-mobile-web-app-status-bar-style" content="default">
         <!-- BEGIN VENDOR CSS-->
         <link rel="stylesheet" type="text/css" href="/librerias/app-assets/css/bootstrap.css">
         <!-- font icons-->

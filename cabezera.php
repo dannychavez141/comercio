@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="es" data-textdirection="premiun" class="loading">
+<html lang="es"  class="loading">
     <?php
 //error_reporting(0);
     date_default_timezone_set('America/Lima');
     if (isset($_COOKIE['usuario'])) {
 
     } else {
-        echo"<script language='javascript'>window.location='principal/'</script>;";
+        echo"<script language='javascript'>window.location='login.php'</script>;";
         //header("Location: /premium/");
         exit();
     }
